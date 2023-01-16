@@ -1,0 +1,3170 @@
+{
+    "data": {
+        "zonesStats": [
+            {
+                "zone": "comdex-1",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Comdex40.png",
+                "name": "Comdex",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 20025,
+                        "ibcVolumeIn": 0,
+                        "ibcVolumeOut": 20025,
+                        "ibcVolumeRating": 19,
+                        "ibcTransfersRating": 11,
+                        "dauRating": 54,
+                        "totalTxsRating": 51,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "lum-network-1",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/LumNetwork40-2.png",
+                "name": "Lum Network",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 606,
+                        "ibcVolumeIn": 216,
+                        "ibcVolumeOut": 390,
+                        "ibcVolumeRating": 39,
+                        "ibcTransfersRating": 30,
+                        "dauRating": 28,
+                        "totalTxsRating": 33,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "mantle-1",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/AssetMantle40.png",
+                "name": "AssetMantle",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 1694,
+                        "ibcVolumeIn": 1013,
+                        "ibcVolumeOut": 681,
+                        "ibcVolumeRating": 34,
+                        "ibcTransfersRating": 21,
+                        "dauRating": 20,
+                        "totalTxsRating": 18,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "microtick-1",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Microtick40.svg",
+                "name": "Microtick",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 0,
+                        "ibcVolumeIn": 0,
+                        "ibcVolumeOut": 0,
+                        "ibcVolumeRating": 52,
+                        "ibcTransfersRating": 54,
+                        "dauRating": 45,
+                        "totalTxsRating": 46,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "osmosis-1",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Osmosis40.svg",
+                "name": "Osmosis",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 6885384,
+                        "ibcVolumeIn": 2725437,
+                        "ibcVolumeOut": 4159947,
+                        "ibcVolumeRating": 1,
+                        "ibcTransfersRating": 3,
+                        "dauRating": 2,
+                        "totalTxsRating": 6,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "panacea-3",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Medibloc40.png",
+                "name": "MediBloc",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 5400,
+                        "ibcVolumeIn": 2120,
+                        "ibcVolumeOut": 3280,
+                        "ibcVolumeRating": 30,
+                        "ibcTransfersRating": 37,
+                        "dauRating": 29,
+                        "totalTxsRating": 29,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "core-1",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Persistance40.svg",
+                "name": "Persistence",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 12908,
+                        "ibcVolumeIn": 0,
+                        "ibcVolumeOut": 12908,
+                        "ibcVolumeRating": 22,
+                        "ibcTransfersRating": 28,
+                        "dauRating": 52,
+                        "totalTxsRating": 50,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "crescent-1",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Crescent40.png",
+                "name": "Crescent Network",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 520165,
+                        "ibcVolumeIn": 337947,
+                        "ibcVolumeOut": 182218,
+                        "ibcVolumeRating": 9,
+                        "ibcTransfersRating": 16,
+                        "dauRating": 14,
+                        "totalTxsRating": 21,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "cronosmainnet_25-1",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Cronos40.png",
+                "name": "Cronos",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 315643,
+                        "ibcVolumeIn": 89338,
+                        "ibcVolumeOut": 226305,
+                        "ibcVolumeRating": 12,
+                        "ibcTransfersRating": 10,
+                        "dauRating": 5,
+                        "totalTxsRating": 7,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "crypto-org-chain-mainnet-1",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Crypto40.svg",
+                "name": "Crypto.org",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 402130,
+                        "ibcVolumeIn": 295422,
+                        "ibcVolumeOut": 106708,
+                        "ibcVolumeRating": 10,
+                        "ibcTransfersRating": 8,
+                        "dauRating": 6,
+                        "totalTxsRating": 15,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "darchub",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Konstellation40.svg",
+                "name": "Konstellation",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 9,
+                        "ibcVolumeIn": 0,
+                        "ibcVolumeOut": 9,
+                        "ibcVolumeRating": 47,
+                        "ibcTransfersRating": 45,
+                        "dauRating": 46,
+                        "totalTxsRating": 47,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "desmos-mainnet",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Desmos40.png",
+                "name": "Desmos",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 168,
+                        "ibcVolumeIn": 144,
+                        "ibcVolumeOut": 24,
+                        "ibcVolumeRating": 42,
+                        "ibcTransfersRating": 42,
+                        "dauRating": 35,
+                        "totalTxsRating": 39,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "dig-1",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Dig40.png",
+                "name": "Dig Chain",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 0,
+                        "ibcVolumeIn": 0,
+                        "ibcVolumeOut": 0,
+                        "ibcVolumeRating": 51,
+                        "ibcTransfersRating": 53,
+                        "dauRating": 43,
+                        "totalTxsRating": 41,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "cosmoshub-4",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Cosmos40.svg",
+                "name": "Cosmos Hub",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 3598792,
+                        "ibcVolumeIn": 1339151,
+                        "ibcVolumeOut": 2259641,
+                        "ibcVolumeRating": 2,
+                        "ibcTransfersRating": 4,
+                        "dauRating": 1,
+                        "totalTxsRating": 9,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "agoric-3",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Agoric40.png",
+                "name": "Agoric",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 1199652,
+                        "ibcVolumeIn": 457306,
+                        "ibcVolumeOut": 742346,
+                        "ibcVolumeRating": 6,
+                        "ibcTransfersRating": 19,
+                        "dauRating": 19,
+                        "totalTxsRating": 5,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "alteredcarbon",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Alteredcarbon40.png",
+                "name": "Altered Carbon",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 0,
+                        "ibcVolumeIn": 0,
+                        "ibcVolumeOut": 0,
+                        "ibcVolumeRating": 53,
+                        "ibcTransfersRating": 52,
+                        "dauRating": 51,
+                        "totalTxsRating": 53,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "akashnet-2",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Akash40.svg",
+                "name": "Akash",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 85843,
+                        "ibcVolumeIn": 66852,
+                        "ibcVolumeOut": 18991,
+                        "ibcVolumeRating": 15,
+                        "ibcTransfersRating": 17,
+                        "dauRating": 13,
+                        "totalTxsRating": 24,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "axelar-dojo-1",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Axelar40.png",
+                "name": "Axelar",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 1930817,
+                        "ibcVolumeIn": 1209232,
+                        "ibcVolumeOut": 721585,
+                        "ibcVolumeRating": 4,
+                        "ibcTransfersRating": 12,
+                        "dauRating": 12,
+                        "totalTxsRating": 8,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "bitcanna-1",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Bitcanna40.svg",
+                "name": "Bitcanna",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 2035,
+                        "ibcVolumeIn": 2017,
+                        "ibcVolumeOut": 18,
+                        "ibcVolumeRating": 33,
+                        "ibcTransfersRating": 29,
+                        "dauRating": 34,
+                        "totalTxsRating": 37,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "bitsong-2b",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Bitsong40.png",
+                "name": "BitSong",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 428,
+                        "ibcVolumeIn": 376,
+                        "ibcVolumeOut": 52,
+                        "ibcVolumeRating": 40,
+                        "ibcTransfersRating": 36,
+                        "dauRating": 33,
+                        "totalTxsRating": 38,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "bostrom",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Bostrom40.png",
+                "name": "Bostrom",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 1779062,
+                        "ibcVolumeIn": 888801,
+                        "ibcVolumeOut": 890261,
+                        "ibcVolumeRating": 5,
+                        "ibcTransfersRating": 9,
+                        "dauRating": 24,
+                        "totalTxsRating": 28,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "canto_7700-1",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Canto40.png",
+                "name": "Canto",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 15779,
+                        "ibcVolumeIn": 2666,
+                        "ibcVolumeOut": 13113,
+                        "ibcVolumeRating": 20,
+                        "ibcTransfersRating": 38,
+                        "dauRating": 26,
+                        "totalTxsRating": 27,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "cheqd-mainnet-1",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Cheqd40.svg",
+                "name": "cheqd",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 55418,
+                        "ibcVolumeIn": 28875,
+                        "ibcVolumeOut": 26543,
+                        "ibcVolumeRating": 16,
+                        "ibcTransfersRating": 31,
+                        "dauRating": 32,
+                        "totalTxsRating": 35,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "chihuahua-1",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Chihuahua40-2.png",
+                "name": "Chihuahua",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 7421,
+                        "ibcVolumeIn": 4963,
+                        "ibcVolumeOut": 2458,
+                        "ibcVolumeRating": 26,
+                        "ibcTransfersRating": 20,
+                        "dauRating": 16,
+                        "totalTxsRating": 23,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "columbus-5",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Terra40.svg",
+                "name": "Terra",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 14803,
+                        "ibcVolumeIn": 8419,
+                        "ibcVolumeOut": 6384,
+                        "ibcVolumeRating": 21,
+                        "ibcTransfersRating": 24,
+                        "dauRating": 7,
+                        "totalTxsRating": 3,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "emoney-3",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/e-money40.svg",
+                "name": "E-money",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 10103,
+                        "ibcVolumeIn": 7594,
+                        "ibcVolumeOut": 2509,
+                        "ibcVolumeRating": 24,
+                        "ibcTransfersRating": 32,
+                        "dauRating": 38,
+                        "totalTxsRating": 40,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "evmos_9001-2",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Evmos40-2.png",
+                "name": "Evmos",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 348002,
+                        "ibcVolumeIn": 138805,
+                        "ibcVolumeOut": 209197,
+                        "ibcVolumeRating": 11,
+                        "ibcTransfersRating": 7,
+                        "dauRating": 3,
+                        "totalTxsRating": 12,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "exchain-66",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Okx40v3.png",
+                "name": "OKX Chain",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 0,
+                        "ibcVolumeIn": 0,
+                        "ibcVolumeOut": 0,
+                        "ibcVolumeRating": 50,
+                        "ibcTransfersRating": 47,
+                        "dauRating": 8,
+                        "totalTxsRating": 11,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "fetchhub-4",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Fetchai40.png",
+                "name": "Fetch.ai",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 33514,
+                        "ibcVolumeIn": 13172,
+                        "ibcVolumeOut": 20342,
+                        "ibcVolumeRating": 18,
+                        "ibcTransfersRating": 25,
+                        "dauRating": 21,
+                        "totalTxsRating": 17,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "gravity-bridge-3",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/GravityBridge40-2.png",
+                "name": "Gravity Bridge",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 11855,
+                        "ibcVolumeIn": 0,
+                        "ibcVolumeOut": 11855,
+                        "ibcVolumeRating": 23,
+                        "ibcTransfersRating": 23,
+                        "dauRating": 47,
+                        "totalTxsRating": 48,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "impacthub-3",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Impact40.svg",
+                "name": "Ixo",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 0,
+                        "ibcVolumeIn": 0,
+                        "ibcVolumeOut": 0,
+                        "ibcVolumeRating": 48,
+                        "ibcTransfersRating": 50,
+                        "dauRating": 53,
+                        "totalTxsRating": 54,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "injective-1",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Injective40.svg",
+                "name": "Injective",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 8711,
+                        "ibcVolumeIn": 0,
+                        "ibcVolumeOut": 8711,
+                        "ibcVolumeRating": 25,
+                        "ibcTransfersRating": 2,
+                        "dauRating": 50,
+                        "totalTxsRating": 45,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "iov-mainnet-ibc",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Starname-40-2.png",
+                "name": "Starname",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 15,
+                        "ibcVolumeIn": 15,
+                        "ibcVolumeOut": 0,
+                        "ibcVolumeRating": 46,
+                        "ibcTransfersRating": 46,
+                        "dauRating": 41,
+                        "totalTxsRating": 42,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "irishub-1",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/IRIS40.svg",
+                "name": "Iris",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 309,
+                        "ibcVolumeIn": 0,
+                        "ibcVolumeOut": 309,
+                        "ibcVolumeRating": 41,
+                        "ibcTransfersRating": 43,
+                        "dauRating": 49,
+                        "totalTxsRating": 52,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "jackal-1",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Jackal40.png",
+                "name": "Jackal",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 2930,
+                        "ibcVolumeIn": 0,
+                        "ibcVolumeOut": 2930,
+                        "ibcVolumeRating": 32,
+                        "ibcTransfersRating": 33,
+                        "dauRating": 48,
+                        "totalTxsRating": 49,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "juno-1",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Juno2-40.svg",
+                "name": "Juno",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 238329,
+                        "ibcVolumeIn": 102900,
+                        "ibcVolumeOut": 135429,
+                        "ibcVolumeRating": 13,
+                        "ibcTransfersRating": 6,
+                        "dauRating": 4,
+                        "totalTxsRating": 10,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "kaiyo-1",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Kujira40.png",
+                "name": "Kujira",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 570661,
+                        "ibcVolumeIn": 281837,
+                        "ibcVolumeOut": 288824,
+                        "ibcVolumeRating": 8,
+                        "ibcTransfersRating": 15,
+                        "dauRating": 17,
+                        "totalTxsRating": 4,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "kichain-2",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Kichain40.png",
+                "name": "KiChain",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 7170,
+                        "ibcVolumeIn": 6319,
+                        "ibcVolumeOut": 851,
+                        "ibcVolumeRating": 27,
+                        "ibcTransfersRating": 22,
+                        "dauRating": 23,
+                        "totalTxsRating": 22,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "laozi-mainnet",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Band40.svg",
+                "name": "Band",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 3810,
+                        "ibcVolumeIn": 1971,
+                        "ibcVolumeOut": 1839,
+                        "ibcVolumeRating": 31,
+                        "ibcTransfersRating": 1,
+                        "dauRating": 25,
+                        "totalTxsRating": 2,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "likecoin-mainnet-2",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Likecoin40.svg",
+                "name": "LikeCoin",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 105,
+                        "ibcVolumeIn": 12,
+                        "ibcVolumeOut": 93,
+                        "ibcVolumeRating": 43,
+                        "ibcTransfersRating": 34,
+                        "dauRating": 27,
+                        "totalTxsRating": 34,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "omniflixhub-1",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Omniflix40.svg",
+                "name": "OmniFlix",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 789,
+                        "ibcVolumeIn": 738,
+                        "ibcVolumeOut": 51,
+                        "ibcVolumeRating": 38,
+                        "ibcTransfersRating": 40,
+                        "dauRating": 39,
+                        "totalTxsRating": 30,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "mainnet-3",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Decentr40.svg",
+                "name": "Decentr",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 1235,
+                        "ibcVolumeIn": 772,
+                        "ibcVolumeOut": 463,
+                        "ibcVolumeRating": 36,
+                        "ibcTransfersRating": 41,
+                        "dauRating": 37,
+                        "totalTxsRating": 26,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "space-pussy",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/SpacePussy40.png",
+                "name": "Space Pussy",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 0,
+                        "ibcVolumeIn": 0,
+                        "ibcVolumeOut": 0,
+                        "ibcVolumeRating": 54,
+                        "ibcTransfersRating": 48,
+                        "dauRating": 44,
+                        "totalTxsRating": 44,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "regen-1",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Regen40-2.png",
+                "name": "Regen",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 6504,
+                        "ibcVolumeIn": 5733,
+                        "ibcVolumeOut": 771,
+                        "ibcVolumeRating": 28,
+                        "ibcTransfersRating": 27,
+                        "dauRating": 30,
+                        "totalTxsRating": 36,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "secret-4",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Secret40.svg",
+                "name": "Secret",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 731784,
+                        "ibcVolumeIn": 424088,
+                        "ibcVolumeOut": 307696,
+                        "ibcVolumeRating": 7,
+                        "ibcTransfersRating": 13,
+                        "dauRating": 10,
+                        "totalTxsRating": 20,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "sentinelhub-2",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Sentinel40.svg",
+                "name": "Sentinel",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 5407,
+                        "ibcVolumeIn": 2546,
+                        "ibcVolumeOut": 2861,
+                        "ibcVolumeRating": 29,
+                        "ibcTransfersRating": 26,
+                        "dauRating": 18,
+                        "totalTxsRating": 25,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "shentu-2.2",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Shentu40-2.png",
+                "name": "Shentu",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 0,
+                        "ibcVolumeIn": 0,
+                        "ibcVolumeOut": 0,
+                        "ibcVolumeRating": 49,
+                        "ibcTransfersRating": 51,
+                        "dauRating": 36,
+                        "totalTxsRating": 13,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "sifchain-1",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/SifChain40.svg",
+                "name": "Sifchain",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 1610,
+                        "ibcVolumeIn": 535,
+                        "ibcVolumeOut": 1075,
+                        "ibcVolumeRating": 35,
+                        "ibcTransfersRating": 35,
+                        "dauRating": 22,
+                        "totalTxsRating": 32,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "sommelier-3",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Sommelier40.png",
+                "name": "Sommelier",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 1159,
+                        "ibcVolumeIn": 505,
+                        "ibcVolumeOut": 654,
+                        "ibcVolumeRating": 37,
+                        "ibcTransfersRating": 39,
+                        "dauRating": 40,
+                        "totalTxsRating": 16,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "stargaze-1",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Stargaze40-2.png",
+                "name": "Stargaze",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 50204,
+                        "ibcVolumeIn": 32966,
+                        "ibcVolumeOut": 17238,
+                        "ibcVolumeRating": 17,
+                        "ibcTransfersRating": 14,
+                        "dauRating": 9,
+                        "totalTxsRating": 14,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "stride-1",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Stride40.png",
+                "name": "Stride",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 2607290,
+                        "ibcVolumeIn": 2266602,
+                        "ibcVolumeOut": 340688,
+                        "ibcVolumeRating": 3,
+                        "ibcTransfersRating": 5,
+                        "dauRating": 15,
+                        "totalTxsRating": 19,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "titan-1",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Rizon40.svg",
+                "name": "RiZON",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 21,
+                        "ibcVolumeIn": 21,
+                        "ibcVolumeOut": 0,
+                        "ibcVolumeRating": 45,
+                        "ibcTransfersRating": 49,
+                        "dauRating": 31,
+                        "totalTxsRating": 31,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "umee-1",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Umee40.png",
+                "name": "Umee",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 108702,
+                        "ibcVolumeIn": 54787,
+                        "ibcVolumeOut": 53915,
+                        "ibcVolumeRating": 14,
+                        "ibcTransfersRating": 18,
+                        "dauRating": 11,
+                        "totalTxsRating": 1,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "vidulum-1",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Vidulum40.svg",
+                "name": "Vidulum",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 29,
+                        "ibcVolumeIn": 2,
+                        "ibcVolumeOut": 27,
+                        "ibcVolumeRating": 44,
+                        "ibcTransfersRating": 44,
+                        "dauRating": 42,
+                        "totalTxsRating": 43,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            }
+        ],
+        "zonesGraphs": [
+            {
+                "source": "agoric-3",
+                "target": "axelar-dojo-1",
+                "ibcVolume": 432187,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "agoric-3",
+                "target": "cosmoshub-4",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "agoric-3",
+                "target": "crescent-1",
+                "ibcVolume": 171323,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "agoric-3",
+                "target": "gravity-bridge-3",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "agoric-3",
+                "target": "osmosis-1",
+                "ibcVolume": 61135,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "agoric-3",
+                "target": "secret-4",
+                "ibcVolume": 535007,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "akashnet-2",
+                "target": "comdex-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "akashnet-2",
+                "target": "core-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "akashnet-2",
+                "target": "cosmoshub-4",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "akashnet-2",
+                "target": "cronosmainnet_25-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "akashnet-2",
+                "target": "crypto-org-chain-mainnet-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "akashnet-2",
+                "target": "emoney-3",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "akashnet-2",
+                "target": "impacthub-3",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "akashnet-2",
+                "target": "iov-mainnet-ibc",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "akashnet-2",
+                "target": "irishub-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "akashnet-2",
+                "target": "juno-1",
+                "ibcVolume": 211,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "akashnet-2",
+                "target": "microtick-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "akashnet-2",
+                "target": "omniflixhub-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "akashnet-2",
+                "target": "osmosis-1",
+                "ibcVolume": 85617,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "akashnet-2",
+                "target": "regen-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "akashnet-2",
+                "target": "secret-4",
+                "ibcVolume": 15,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "akashnet-2",
+                "target": "sentinelhub-2",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "akashnet-2",
+                "target": "sifchain-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "akashnet-2",
+                "target": "umee-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "axelar-dojo-1",
+                "target": "bitcanna-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "axelar-dojo-1",
+                "target": "columbus-5",
+                "ibcVolume": 4155,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "axelar-dojo-1",
+                "target": "comdex-1",
+                "ibcVolume": 1302,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "axelar-dojo-1",
+                "target": "core-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "axelar-dojo-1",
+                "target": "cosmoshub-4",
+                "ibcVolume": 4486,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "axelar-dojo-1",
+                "target": "crescent-1",
+                "ibcVolume": 126038,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "axelar-dojo-1",
+                "target": "emoney-3",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "axelar-dojo-1",
+                "target": "evmos_9001-2",
+                "ibcVolume": 37068,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "axelar-dojo-1",
+                "target": "exchain-66",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "axelar-dojo-1",
+                "target": "fetchhub-4",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "axelar-dojo-1",
+                "target": "injective-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "axelar-dojo-1",
+                "target": "juno-1",
+                "ibcVolume": 9060,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "axelar-dojo-1",
+                "target": "kaiyo-1",
+                "ibcVolume": 402794,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "axelar-dojo-1",
+                "target": "kichain-2",
+                "ibcVolume": 58,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "axelar-dojo-1",
+                "target": "mantle-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "axelar-dojo-1",
+                "target": "osmosis-1",
+                "ibcVolume": 882237,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "axelar-dojo-1",
+                "target": "regen-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "axelar-dojo-1",
+                "target": "secret-4",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "axelar-dojo-1",
+                "target": "stargaze-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "axelar-dojo-1",
+                "target": "stride-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "axelar-dojo-1",
+                "target": "titan-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "axelar-dojo-1",
+                "target": "umee-1",
+                "ibcVolume": 31432,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "bitcanna-1",
+                "target": "cosmoshub-4",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "bitcanna-1",
+                "target": "juno-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "bitcanna-1",
+                "target": "omniflixhub-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "bitcanna-1",
+                "target": "osmosis-1",
+                "ibcVolume": 2035,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "bitcanna-1",
+                "target": "sifchain-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "bitcanna-1",
+                "target": "stargaze-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "bitsong-2b",
+                "target": "chihuahua-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "bitsong-2b",
+                "target": "cosmoshub-4",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "bitsong-2b",
+                "target": "darchub",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "bitsong-2b",
+                "target": "juno-1",
+                "ibcVolume": 20,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "bitsong-2b",
+                "target": "kaiyo-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "bitsong-2b",
+                "target": "osmosis-1",
+                "ibcVolume": 408,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "bitsong-2b",
+                "target": "sifchain-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "bostrom",
+                "target": "cosmoshub-4",
+                "ibcVolume": 51,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "bostrom",
+                "target": "desmos-mainnet",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "bostrom",
+                "target": "evmos_9001-2",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "bostrom",
+                "target": "gravity-bridge-3",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "bostrom",
+                "target": "juno-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "bostrom",
+                "target": "osmosis-1",
+                "ibcVolume": 1779011,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "bostrom",
+                "target": "space-pussy",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "canto_7700-1",
+                "target": "cosmoshub-4",
+                "ibcVolume": 15779,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "canto_7700-1",
+                "target": "gravity-bridge-3",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "cheqd-mainnet-1",
+                "target": "cosmoshub-4",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "cheqd-mainnet-1",
+                "target": "gravity-bridge-3",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "cheqd-mainnet-1",
+                "target": "osmosis-1",
+                "ibcVolume": 55418,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "chihuahua-1",
+                "target": "cosmoshub-4",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "chihuahua-1",
+                "target": "exchain-66",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "chihuahua-1",
+                "target": "gravity-bridge-3",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "chihuahua-1",
+                "target": "injective-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "chihuahua-1",
+                "target": "juno-1",
+                "ibcVolume": 527,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "chihuahua-1",
+                "target": "kaiyo-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "chihuahua-1",
+                "target": "omniflixhub-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "chihuahua-1",
+                "target": "osmosis-1",
+                "ibcVolume": 33380,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "chihuahua-1",
+                "target": "secret-4",
+                "ibcVolume": 57,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "chihuahua-1",
+                "target": "sifchain-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "chihuahua-1",
+                "target": "titan-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "columbus-5",
+                "target": "cosmoshub-4",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "columbus-5",
+                "target": "crescent-1",
+                "ibcVolume": 3215,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "columbus-5",
+                "target": "cronosmainnet_25-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "columbus-5",
+                "target": "darchub",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "columbus-5",
+                "target": "emoney-3",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "columbus-5",
+                "target": "evmos_9001-2",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "columbus-5",
+                "target": "gravity-bridge-3",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "columbus-5",
+                "target": "injective-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "columbus-5",
+                "target": "juno-1",
+                "ibcVolume": 1565,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "columbus-5",
+                "target": "likecoin-mainnet-2",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "columbus-5",
+                "target": "omniflixhub-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "columbus-5",
+                "target": "osmosis-1",
+                "ibcVolume": 5868,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "columbus-5",
+                "target": "secret-4",
+                "ibcVolume": 3732,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "columbus-5",
+                "target": "sifchain-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "columbus-5",
+                "target": "titan-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "columbus-5",
+                "target": "umee-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "comdex-1",
+                "target": "core-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "comdex-1",
+                "target": "cosmoshub-4",
+                "ibcVolume": 8972,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "comdex-1",
+                "target": "crescent-1",
+                "ibcVolume": 1481,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "comdex-1",
+                "target": "emoney-3",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "comdex-1",
+                "target": "evmos_9001-2",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "comdex-1",
+                "target": "exchain-66",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "comdex-1",
+                "target": "gravity-bridge-3",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "comdex-1",
+                "target": "injective-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "comdex-1",
+                "target": "irishub-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "comdex-1",
+                "target": "juno-1",
+                "ibcVolume": 1559,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "comdex-1",
+                "target": "kaiyo-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "comdex-1",
+                "target": "laozi-mainnet",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "comdex-1",
+                "target": "osmosis-1",
+                "ibcVolume": 6205,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "comdex-1",
+                "target": "secret-4",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "comdex-1",
+                "target": "sentinelhub-2",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "comdex-1",
+                "target": "shentu-2.2",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "comdex-1",
+                "target": "sifchain-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "comdex-1",
+                "target": "stargaze-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "comdex-1",
+                "target": "stride-1",
+                "ibcVolume": 506,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "core-1",
+                "target": "cosmoshub-4",
+                "ibcVolume": 721,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "core-1",
+                "target": "crypto-org-chain-mainnet-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "core-1",
+                "target": "emoney-3",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "core-1",
+                "target": "exchain-66",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "core-1",
+                "target": "gravity-bridge-3",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "core-1",
+                "target": "impacthub-3",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "core-1",
+                "target": "injective-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "core-1",
+                "target": "iov-mainnet-ibc",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "core-1",
+                "target": "irishub-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "core-1",
+                "target": "juno-1",
+                "ibcVolume": 1,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "core-1",
+                "target": "kaiyo-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "core-1",
+                "target": "microtick-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "core-1",
+                "target": "osmosis-1",
+                "ibcVolume": 12186,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "core-1",
+                "target": "regen-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "core-1",
+                "target": "sentinelhub-2",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "core-1",
+                "target": "shentu-2.2",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "core-1",
+                "target": "sifchain-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "cosmoshub-4",
+                "target": "crescent-1",
+                "ibcVolume": 110244,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "cosmoshub-4",
+                "target": "cronosmainnet_25-1",
+                "ibcVolume": 13679,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "cosmoshub-4",
+                "target": "crypto-org-chain-mainnet-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "cosmoshub-4",
+                "target": "darchub",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "cosmoshub-4",
+                "target": "dig-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "cosmoshub-4",
+                "target": "emoney-3",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "cosmoshub-4",
+                "target": "evmos_9001-2",
+                "ibcVolume": 30666,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "cosmoshub-4",
+                "target": "exchain-66",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "cosmoshub-4",
+                "target": "fetchhub-4",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "cosmoshub-4",
+                "target": "gravity-bridge-3",
+                "ibcVolume": 51,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "cosmoshub-4",
+                "target": "impacthub-3",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "cosmoshub-4",
+                "target": "injective-1",
+                "ibcVolume": 1236,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "cosmoshub-4",
+                "target": "iov-mainnet-ibc",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "cosmoshub-4",
+                "target": "irishub-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "cosmoshub-4",
+                "target": "juno-1",
+                "ibcVolume": 45391,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "cosmoshub-4",
+                "target": "kaiyo-1",
+                "ibcVolume": 123209,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "cosmoshub-4",
+                "target": "kichain-2",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "cosmoshub-4",
+                "target": "laozi-mainnet",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "cosmoshub-4",
+                "target": "likecoin-mainnet-2",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "cosmoshub-4",
+                "target": "microtick-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "cosmoshub-4",
+                "target": "omniflixhub-1",
+                "ibcVolume": 103,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "cosmoshub-4",
+                "target": "osmosis-1",
+                "ibcVolume": 1868606,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "cosmoshub-4",
+                "target": "regen-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "cosmoshub-4",
+                "target": "secret-4",
+                "ibcVolume": 13153,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "cosmoshub-4",
+                "target": "sentinelhub-2",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "cosmoshub-4",
+                "target": "shentu-2.2",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "cosmoshub-4",
+                "target": "sifchain-1",
+                "ibcVolume": 446,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "cosmoshub-4",
+                "target": "stargaze-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "cosmoshub-4",
+                "target": "stride-1",
+                "ibcVolume": 1339600,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "cosmoshub-4",
+                "target": "titan-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "cosmoshub-4",
+                "target": "umee-1",
+                "ibcVolume": 29889,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "crescent-1",
+                "target": "evmos_9001-2",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "crescent-1",
+                "target": "gravity-bridge-3",
+                "ibcVolume": 2482,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "crescent-1",
+                "target": "injective-1",
+                "ibcVolume": 973,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "crescent-1",
+                "target": "juno-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "crescent-1",
+                "target": "mantle-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "crescent-1",
+                "target": "osmosis-1",
+                "ibcVolume": 192,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "crescent-1",
+                "target": "secret-4",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "crescent-1",
+                "target": "stargaze-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "crescent-1",
+                "target": "stride-1",
+                "ibcVolume": 104217,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "crescent-1",
+                "target": "umee-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "cronosmainnet_25-1",
+                "target": "crypto-org-chain-mainnet-1",
+                "ibcVolume": 301964,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "cronosmainnet_25-1",
+                "target": "juno-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "cronosmainnet_25-1",
+                "target": "umee-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "crypto-org-chain-mainnet-1",
+                "target": "emoney-3",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "crypto-org-chain-mainnet-1",
+                "target": "evmos_9001-2",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "crypto-org-chain-mainnet-1",
+                "target": "impacthub-3",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "crypto-org-chain-mainnet-1",
+                "target": "iov-mainnet-ibc",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "crypto-org-chain-mainnet-1",
+                "target": "irishub-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "crypto-org-chain-mainnet-1",
+                "target": "kaiyo-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "crypto-org-chain-mainnet-1",
+                "target": "microtick-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "crypto-org-chain-mainnet-1",
+                "target": "omniflixhub-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "crypto-org-chain-mainnet-1",
+                "target": "osmosis-1",
+                "ibcVolume": 100166,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "crypto-org-chain-mainnet-1",
+                "target": "regen-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "crypto-org-chain-mainnet-1",
+                "target": "sentinelhub-2",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "crypto-org-chain-mainnet-1",
+                "target": "sifchain-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "darchub",
+                "target": "gravity-bridge-3",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "darchub",
+                "target": "juno-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "darchub",
+                "target": "osmosis-1",
+                "ibcVolume": 9,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "desmos-mainnet",
+                "target": "laozi-mainnet",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "desmos-mainnet",
+                "target": "osmosis-1",
+                "ibcVolume": 168,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "desmos-mainnet",
+                "target": "stargaze-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "desmos-mainnet",
+                "target": "umee-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "dig-1",
+                "target": "juno-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "dig-1",
+                "target": "osmosis-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "emoney-3",
+                "target": "evmos_9001-2",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "emoney-3",
+                "target": "irishub-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "emoney-3",
+                "target": "juno-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "emoney-3",
+                "target": "kaiyo-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "emoney-3",
+                "target": "microtick-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "emoney-3",
+                "target": "osmosis-1",
+                "ibcVolume": 9444,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "emoney-3",
+                "target": "regen-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "emoney-3",
+                "target": "sentinelhub-2",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "emoney-3",
+                "target": "shentu-2.2",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "emoney-3",
+                "target": "sifchain-1",
+                "ibcVolume": 659,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "evmos_9001-2",
+                "target": "exchain-66",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "evmos_9001-2",
+                "target": "gravity-bridge-3",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "evmos_9001-2",
+                "target": "injective-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "evmos_9001-2",
+                "target": "juno-1",
+                "ibcVolume": 3672,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "evmos_9001-2",
+                "target": "kaiyo-1",
+                "ibcVolume": 2148,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "evmos_9001-2",
+                "target": "kichain-2",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "evmos_9001-2",
+                "target": "mantle-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "evmos_9001-2",
+                "target": "osmosis-1",
+                "ibcVolume": 274448,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "evmos_9001-2",
+                "target": "regen-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "evmos_9001-2",
+                "target": "secret-4",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "evmos_9001-2",
+                "target": "sifchain-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "evmos_9001-2",
+                "target": "stargaze-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "evmos_9001-2",
+                "target": "stride-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "evmos_9001-2",
+                "target": "titan-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "evmos_9001-2",
+                "target": "umee-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "exchain-66",
+                "target": "kaiyo-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "exchain-66",
+                "target": "mantle-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "exchain-66",
+                "target": "osmosis-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "exchain-66",
+                "target": "secret-4",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "exchain-66",
+                "target": "sifchain-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "exchain-66",
+                "target": "stargaze-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "exchain-66",
+                "target": "umee-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "exchain-66",
+                "target": "vidulum-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "fetchhub-4",
+                "target": "gravity-bridge-3",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "fetchhub-4",
+                "target": "juno-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "fetchhub-4",
+                "target": "osmosis-1",
+                "ibcVolume": 33514,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "fetchhub-4",
+                "target": "sifchain-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "fetchhub-4",
+                "target": "umee-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "gravity-bridge-3",
+                "target": "impacthub-3",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "gravity-bridge-3",
+                "target": "irishub-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "gravity-bridge-3",
+                "target": "juno-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "gravity-bridge-3",
+                "target": "kaiyo-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "gravity-bridge-3",
+                "target": "kichain-2",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "gravity-bridge-3",
+                "target": "lum-network-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "gravity-bridge-3",
+                "target": "mainnet-3",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "gravity-bridge-3",
+                "target": "mantle-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "gravity-bridge-3",
+                "target": "omniflixhub-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "gravity-bridge-3",
+                "target": "osmosis-1",
+                "ibcVolume": 882020,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "gravity-bridge-3",
+                "target": "regen-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "gravity-bridge-3",
+                "target": "secret-4",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "gravity-bridge-3",
+                "target": "shentu-2.2",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "gravity-bridge-3",
+                "target": "sifchain-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "gravity-bridge-3",
+                "target": "stargaze-1",
+                "ibcVolume": 256,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "gravity-bridge-3",
+                "target": "titan-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "gravity-bridge-3",
+                "target": "umee-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "impacthub-3",
+                "target": "iov-mainnet-ibc",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "impacthub-3",
+                "target": "irishub-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "impacthub-3",
+                "target": "microtick-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "impacthub-3",
+                "target": "osmosis-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "impacthub-3",
+                "target": "regen-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "impacthub-3",
+                "target": "sentinelhub-2",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "impacthub-3",
+                "target": "sifchain-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "impacthub-3",
+                "target": "stargaze-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "injective-1",
+                "target": "juno-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "injective-1",
+                "target": "laozi-mainnet",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "injective-1",
+                "target": "osmosis-1",
+                "ibcVolume": 6358,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "injective-1",
+                "target": "secret-4",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "injective-1",
+                "target": "sommelier-3",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "injective-1",
+                "target": "stride-1",
+                "ibcVolume": 144,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "iov-mainnet-ibc",
+                "target": "irishub-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "iov-mainnet-ibc",
+                "target": "microtick-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "iov-mainnet-ibc",
+                "target": "osmosis-1",
+                "ibcVolume": 15,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "iov-mainnet-ibc",
+                "target": "regen-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "iov-mainnet-ibc",
+                "target": "sentinelhub-2",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "iov-mainnet-ibc",
+                "target": "sifchain-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "irishub-1",
+                "target": "microtick-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "irishub-1",
+                "target": "osmosis-1",
+                "ibcVolume": 309,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "irishub-1",
+                "target": "regen-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "irishub-1",
+                "target": "sentinelhub-2",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "irishub-1",
+                "target": "shentu-2.2",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "irishub-1",
+                "target": "sifchain-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "jackal-1",
+                "target": "osmosis-1",
+                "ibcVolume": 2930,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "juno-1",
+                "target": "kaiyo-1",
+                "ibcVolume": 1460,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "juno-1",
+                "target": "kichain-2",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "juno-1",
+                "target": "laozi-mainnet",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "juno-1",
+                "target": "likecoin-mainnet-2",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "juno-1",
+                "target": "mantle-1",
+                "ibcVolume": 1,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "juno-1",
+                "target": "omniflixhub-1",
+                "ibcVolume": 711,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "juno-1",
+                "target": "osmosis-1",
+                "ibcVolume": 172418,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "juno-1",
+                "target": "regen-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "juno-1",
+                "target": "secret-4",
+                "ibcVolume": 481,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "juno-1",
+                "target": "sentinelhub-2",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "juno-1",
+                "target": "sifchain-1",
+                "ibcVolume": 90,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "juno-1",
+                "target": "stargaze-1",
+                "ibcVolume": 986,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "juno-1",
+                "target": "stride-1",
+                "ibcVolume": 176,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "juno-1",
+                "target": "titan-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "juno-1",
+                "target": "umee-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "kaiyo-1",
+                "target": "laozi-mainnet",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "kaiyo-1",
+                "target": "lum-network-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "kaiyo-1",
+                "target": "osmosis-1",
+                "ibcVolume": 37133,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "kaiyo-1",
+                "target": "secret-4",
+                "ibcVolume": 886,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "kaiyo-1",
+                "target": "stargaze-1",
+                "ibcVolume": 3031,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "kaiyo-1",
+                "target": "stride-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "kaiyo-1",
+                "target": "titan-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "kaiyo-1",
+                "target": "umee-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "kaiyo-1",
+                "target": "vidulum-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "kichain-2",
+                "target": "omniflixhub-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "kichain-2",
+                "target": "osmosis-1",
+                "ibcVolume": 7112,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "kichain-2",
+                "target": "sifchain-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "kichain-2",
+                "target": "stride-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "kichain-2",
+                "target": "titan-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "laozi-mainnet",
+                "target": "osmosis-1",
+                "ibcVolume": 3810,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "likecoin-mainnet-2",
+                "target": "osmosis-1",
+                "ibcVolume": 105,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "likecoin-mainnet-2",
+                "target": "sifchain-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "lum-network-1",
+                "target": "osmosis-1",
+                "ibcVolume": 606,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "lum-network-1",
+                "target": "sifchain-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "lum-network-1",
+                "target": "titan-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "mainnet-3",
+                "target": "osmosis-1",
+                "ibcVolume": 1235,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "mainnet-3",
+                "target": "sentinelhub-2",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "mantle-1",
+                "target": "osmosis-1",
+                "ibcVolume": 1693,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "mantle-1",
+                "target": "stargaze-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "microtick-1",
+                "target": "osmosis-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "microtick-1",
+                "target": "regen-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "microtick-1",
+                "target": "sentinelhub-2",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "omniflixhub-1",
+                "target": "osmosis-1",
+                "ibcVolume": 1,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "omniflixhub-1",
+                "target": "sentinelhub-2",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "omniflixhub-1",
+                "target": "sifchain-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "omniflixhub-1",
+                "target": "stargaze-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "osmosis-1",
+                "target": "panacea-3",
+                "ibcVolume": 5400,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "osmosis-1",
+                "target": "regen-1",
+                "ibcVolume": 12237,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "osmosis-1",
+                "target": "secret-4",
+                "ibcVolume": 187982,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "osmosis-1",
+                "target": "sentinelhub-2",
+                "ibcVolume": 3767,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "osmosis-1",
+                "target": "shentu-2.2",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "osmosis-1",
+                "target": "sifchain-1",
+                "ibcVolume": 415,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "osmosis-1",
+                "target": "sommelier-3",
+                "ibcVolume": 1159,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "osmosis-1",
+                "target": "stargaze-1",
+                "ibcVolume": 44844,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "osmosis-1",
+                "target": "stride-1",
+                "ibcVolume": 1161587,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "osmosis-1",
+                "target": "titan-1",
+                "ibcVolume": 21,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "osmosis-1",
+                "target": "umee-1",
+                "ibcVolume": 47381,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "osmosis-1",
+                "target": "vidulum-1",
+                "ibcVolume": 29,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "regen-1",
+                "target": "sentinelhub-2",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "regen-1",
+                "target": "sifchain-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "regen-1",
+                "target": "stride-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "secret-4",
+                "target": "sentinelhub-2",
+                "ibcVolume": 1640,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "secret-4",
+                "target": "sifchain-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "secret-4",
+                "target": "stargaze-1",
+                "ibcVolume": 27,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "secret-4",
+                "target": "stride-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "sentinelhub-2",
+                "target": "sifchain-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "shentu-2.2",
+                "target": "sifchain-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "sifchain-1",
+                "target": "stargaze-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "sifchain-1",
+                "target": "titan-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "sifchain-1",
+                "target": "umee-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "stargaze-1",
+                "target": "stride-1",
+                "ibcVolume": 1060,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "stargaze-1",
+                "target": "titan-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "stargaze-1",
+                "target": "umee-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "stride-1",
+                "target": "titan-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            },
+            {
+                "source": "stride-1",
+                "target": "umee-1",
+                "ibcVolume": 0,
+                "__typename": "flat_blockchain_relations"
+            }
+        ]
+    }
+}
