@@ -2,139 +2,6 @@
     "data": {
         "zonesStats": [
             {
-                "zone": "comdex-1",
-                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Comdex40.png",
-                "name": "Comdex",
-                "__typename": "flat_blockchains",
-                "isMainnet": true,
-                "switchedStats": [
-                    {
-                        "ibcVolume": 20025,
-                        "ibcVolumeIn": 0,
-                        "ibcVolumeOut": 20025,
-                        "ibcVolumeRating": 19,
-                        "ibcTransfersRating": 11,
-                        "dauRating": 54,
-                        "totalTxsRating": 51,
-                        "__typename": "flat_blockchain_switched_stats"
-                    }
-                ]
-            },
-            {
-                "zone": "lum-network-1",
-                "logoUrl": "https://storage.mapofzones.com/frontend/labels/LumNetwork40-2.png",
-                "name": "Lum Network",
-                "__typename": "flat_blockchains",
-                "isMainnet": true,
-                "switchedStats": [
-                    {
-                        "ibcVolume": 606,
-                        "ibcVolumeIn": 216,
-                        "ibcVolumeOut": 390,
-                        "ibcVolumeRating": 39,
-                        "ibcTransfersRating": 30,
-                        "dauRating": 28,
-                        "totalTxsRating": 33,
-                        "__typename": "flat_blockchain_switched_stats"
-                    }
-                ]
-            },
-            {
-                "zone": "mantle-1",
-                "logoUrl": "https://storage.mapofzones.com/frontend/labels/AssetMantle40.png",
-                "name": "AssetMantle",
-                "__typename": "flat_blockchains",
-                "isMainnet": true,
-                "switchedStats": [
-                    {
-                        "ibcVolume": 1694,
-                        "ibcVolumeIn": 1013,
-                        "ibcVolumeOut": 681,
-                        "ibcVolumeRating": 34,
-                        "ibcTransfersRating": 21,
-                        "dauRating": 20,
-                        "totalTxsRating": 18,
-                        "__typename": "flat_blockchain_switched_stats"
-                    }
-                ]
-            },
-            {
-                "zone": "microtick-1",
-                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Microtick40.svg",
-                "name": "Microtick",
-                "__typename": "flat_blockchains",
-                "isMainnet": true,
-                "switchedStats": [
-                    {
-                        "ibcVolume": 0,
-                        "ibcVolumeIn": 0,
-                        "ibcVolumeOut": 0,
-                        "ibcVolumeRating": 52,
-                        "ibcTransfersRating": 54,
-                        "dauRating": 45,
-                        "totalTxsRating": 46,
-                        "__typename": "flat_blockchain_switched_stats"
-                    }
-                ]
-            },
-            {
-                "zone": "osmosis-1",
-                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Osmosis40.svg",
-                "name": "Osmosis",
-                "__typename": "flat_blockchains",
-                "isMainnet": true,
-                "switchedStats": [
-                    {
-                        "ibcVolume": 6885384,
-                        "ibcVolumeIn": 2725437,
-                        "ibcVolumeOut": 4159947,
-                        "ibcVolumeRating": 1,
-                        "ibcTransfersRating": 3,
-                        "dauRating": 2,
-                        "totalTxsRating": 6,
-                        "__typename": "flat_blockchain_switched_stats"
-                    }
-                ]
-            },
-            {
-                "zone": "panacea-3",
-                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Medibloc40.png",
-                "name": "MediBloc",
-                "__typename": "flat_blockchains",
-                "isMainnet": true,
-                "switchedStats": [
-                    {
-                        "ibcVolume": 5400,
-                        "ibcVolumeIn": 2120,
-                        "ibcVolumeOut": 3280,
-                        "ibcVolumeRating": 30,
-                        "ibcTransfersRating": 37,
-                        "dauRating": 29,
-                        "totalTxsRating": 29,
-                        "__typename": "flat_blockchain_switched_stats"
-                    }
-                ]
-            },
-            {
-                "zone": "core-1",
-                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Persistance40.svg",
-                "name": "Persistence",
-                "__typename": "flat_blockchains",
-                "isMainnet": true,
-                "switchedStats": [
-                    {
-                        "ibcVolume": 12908,
-                        "ibcVolumeIn": 0,
-                        "ibcVolumeOut": 12908,
-                        "ibcVolumeRating": 22,
-                        "ibcTransfersRating": 28,
-                        "dauRating": 52,
-                        "totalTxsRating": 50,
-                        "__typename": "flat_blockchain_switched_stats"
-                    }
-                ]
-            },
-            {
                 "zone": "crescent-1",
                 "logoUrl": "https://storage.mapofzones.com/frontend/labels/Crescent40.png",
                 "name": "Crescent Network",
@@ -142,11 +9,11 @@
                 "isMainnet": true,
                 "switchedStats": [
                     {
-                        "ibcVolume": 520165,
-                        "ibcVolumeIn": 337947,
-                        "ibcVolumeOut": 182218,
-                        "ibcVolumeRating": 9,
-                        "ibcTransfersRating": 16,
+                        "ibcVolume": 324730,
+                        "ibcVolumeIn": 183045,
+                        "ibcVolumeOut": 141685,
+                        "ibcVolumeRating": 12,
+                        "ibcTransfersRating": 17,
                         "dauRating": 14,
                         "totalTxsRating": 21,
                         "__typename": "flat_blockchain_switched_stats"
@@ -161,12 +28,12 @@
                 "isMainnet": true,
                 "switchedStats": [
                     {
-                        "ibcVolume": 315643,
-                        "ibcVolumeIn": 89338,
-                        "ibcVolumeOut": 226305,
-                        "ibcVolumeRating": 12,
-                        "ibcTransfersRating": 10,
-                        "dauRating": 5,
+                        "ibcVolume": 887537,
+                        "ibcVolumeIn": 265287,
+                        "ibcVolumeOut": 622250,
+                        "ibcVolumeRating": 7,
+                        "ibcTransfersRating": 9,
+                        "dauRating": 2,
                         "totalTxsRating": 7,
                         "__typename": "flat_blockchain_switched_stats"
                     }
@@ -180,13 +47,13 @@
                 "isMainnet": true,
                 "switchedStats": [
                     {
-                        "ibcVolume": 402130,
-                        "ibcVolumeIn": 295422,
-                        "ibcVolumeOut": 106708,
-                        "ibcVolumeRating": 10,
+                        "ibcVolume": 1250833,
+                        "ibcVolumeIn": 1022548,
+                        "ibcVolumeOut": 228285,
+                        "ibcVolumeRating": 5,
                         "ibcTransfersRating": 8,
                         "dauRating": 6,
-                        "totalTxsRating": 15,
+                        "totalTxsRating": 14,
                         "__typename": "flat_blockchain_switched_stats"
                     }
                 ]
@@ -199,11 +66,11 @@
                 "isMainnet": true,
                 "switchedStats": [
                     {
-                        "ibcVolume": 9,
+                        "ibcVolume": 0,
                         "ibcVolumeIn": 0,
-                        "ibcVolumeOut": 9,
-                        "ibcVolumeRating": 47,
-                        "ibcTransfersRating": 45,
+                        "ibcVolumeOut": 0,
+                        "ibcVolumeRating": 48,
+                        "ibcTransfersRating": 48,
                         "dauRating": 46,
                         "totalTxsRating": 47,
                         "__typename": "flat_blockchain_switched_stats"
@@ -218,13 +85,13 @@
                 "isMainnet": true,
                 "switchedStats": [
                     {
-                        "ibcVolume": 168,
-                        "ibcVolumeIn": 144,
-                        "ibcVolumeOut": 24,
-                        "ibcVolumeRating": 42,
-                        "ibcTransfersRating": 42,
+                        "ibcVolume": 181,
+                        "ibcVolumeIn": 19,
+                        "ibcVolumeOut": 162,
+                        "ibcVolumeRating": 43,
+                        "ibcTransfersRating": 39,
                         "dauRating": 35,
-                        "totalTxsRating": 39,
+                        "totalTxsRating": 38,
                         "__typename": "flat_blockchain_switched_stats"
                     }
                 ]
@@ -240,29 +107,67 @@
                         "ibcVolume": 0,
                         "ibcVolumeIn": 0,
                         "ibcVolumeOut": 0,
-                        "ibcVolumeRating": 51,
-                        "ibcTransfersRating": 53,
+                        "ibcVolumeRating": 49,
+                        "ibcTransfersRating": 50,
                         "dauRating": 43,
-                        "totalTxsRating": 41,
+                        "totalTxsRating": 40,
                         "__typename": "flat_blockchain_switched_stats"
                     }
                 ]
             },
             {
-                "zone": "cosmoshub-4",
-                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Cosmos40.svg",
-                "name": "Cosmos Hub",
+                "zone": "emoney-3",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/e-money40.svg",
+                "name": "E-money",
                 "__typename": "flat_blockchains",
                 "isMainnet": true,
                 "switchedStats": [
                     {
-                        "ibcVolume": 3598792,
-                        "ibcVolumeIn": 1339151,
-                        "ibcVolumeOut": 2259641,
-                        "ibcVolumeRating": 2,
-                        "ibcTransfersRating": 4,
-                        "dauRating": 1,
-                        "totalTxsRating": 9,
+                        "ibcVolume": 11746,
+                        "ibcVolumeIn": 6794,
+                        "ibcVolumeOut": 4952,
+                        "ibcVolumeRating": 26,
+                        "ibcTransfersRating": 40,
+                        "dauRating": 39,
+                        "totalTxsRating": 42,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "evmos_9001-2",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Evmos40-2.png",
+                "name": "Evmos",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 373965,
+                        "ibcVolumeIn": 211519,
+                        "ibcVolumeOut": 162446,
+                        "ibcVolumeRating": 11,
+                        "ibcTransfersRating": 7,
+                        "dauRating": 4,
+                        "totalTxsRating": 12,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "fetchhub-4",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Fetchai40.png",
+                "name": "Fetch.ai",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 33264,
+                        "ibcVolumeIn": 18428,
+                        "ibcVolumeOut": 14836,
+                        "ibcVolumeRating": 22,
+                        "ibcTransfersRating": 28,
+                        "dauRating": 13,
+                        "totalTxsRating": 16,
                         "__typename": "flat_blockchain_switched_stats"
                     }
                 ]
@@ -275,32 +180,13 @@
                 "isMainnet": true,
                 "switchedStats": [
                     {
-                        "ibcVolume": 1199652,
-                        "ibcVolumeIn": 457306,
-                        "ibcVolumeOut": 742346,
-                        "ibcVolumeRating": 6,
+                        "ibcVolume": 414115,
+                        "ibcVolumeIn": 172625,
+                        "ibcVolumeOut": 241490,
+                        "ibcVolumeRating": 10,
                         "ibcTransfersRating": 19,
                         "dauRating": 19,
-                        "totalTxsRating": 5,
-                        "__typename": "flat_blockchain_switched_stats"
-                    }
-                ]
-            },
-            {
-                "zone": "alteredcarbon",
-                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Alteredcarbon40.png",
-                "name": "Altered Carbon",
-                "__typename": "flat_blockchains",
-                "isMainnet": true,
-                "switchedStats": [
-                    {
-                        "ibcVolume": 0,
-                        "ibcVolumeIn": 0,
-                        "ibcVolumeOut": 0,
-                        "ibcVolumeRating": 53,
-                        "ibcTransfersRating": 52,
-                        "dauRating": 51,
-                        "totalTxsRating": 53,
+                        "totalTxsRating": 6,
                         "__typename": "flat_blockchain_switched_stats"
                     }
                 ]
@@ -313,12 +199,12 @@
                 "isMainnet": true,
                 "switchedStats": [
                     {
-                        "ibcVolume": 85843,
-                        "ibcVolumeIn": 66852,
-                        "ibcVolumeOut": 18991,
-                        "ibcVolumeRating": 15,
-                        "ibcTransfersRating": 17,
-                        "dauRating": 13,
+                        "ibcVolume": 130995,
+                        "ibcVolumeIn": 103039,
+                        "ibcVolumeOut": 27956,
+                        "ibcVolumeRating": 14,
+                        "ibcTransfersRating": 16,
+                        "dauRating": 17,
                         "totalTxsRating": 24,
                         "__typename": "flat_blockchain_switched_stats"
                     }
@@ -332,9 +218,9 @@
                 "isMainnet": true,
                 "switchedStats": [
                     {
-                        "ibcVolume": 1930817,
-                        "ibcVolumeIn": 1209232,
-                        "ibcVolumeOut": 721585,
+                        "ibcVolume": 1565162,
+                        "ibcVolumeIn": 904816,
+                        "ibcVolumeOut": 660346,
                         "ibcVolumeRating": 4,
                         "ibcTransfersRating": 12,
                         "dauRating": 12,
@@ -351,13 +237,13 @@
                 "isMainnet": true,
                 "switchedStats": [
                     {
-                        "ibcVolume": 2035,
-                        "ibcVolumeIn": 2017,
-                        "ibcVolumeOut": 18,
-                        "ibcVolumeRating": 33,
-                        "ibcTransfersRating": 29,
-                        "dauRating": 34,
-                        "totalTxsRating": 37,
+                        "ibcVolume": 1518,
+                        "ibcVolumeIn": 1222,
+                        "ibcVolumeOut": 296,
+                        "ibcVolumeRating": 37,
+                        "ibcTransfersRating": 24,
+                        "dauRating": 33,
+                        "totalTxsRating": 36,
                         "__typename": "flat_blockchain_switched_stats"
                     }
                 ]
@@ -370,13 +256,13 @@
                 "isMainnet": true,
                 "switchedStats": [
                     {
-                        "ibcVolume": 428,
-                        "ibcVolumeIn": 376,
-                        "ibcVolumeOut": 52,
+                        "ibcVolume": 591,
+                        "ibcVolumeIn": 534,
+                        "ibcVolumeOut": 57,
                         "ibcVolumeRating": 40,
-                        "ibcTransfersRating": 36,
-                        "dauRating": 33,
-                        "totalTxsRating": 38,
+                        "ibcTransfersRating": 35,
+                        "dauRating": 34,
+                        "totalTxsRating": 39,
                         "__typename": "flat_blockchain_switched_stats"
                     }
                 ]
@@ -389,13 +275,32 @@
                 "isMainnet": true,
                 "switchedStats": [
                     {
-                        "ibcVolume": 1779062,
-                        "ibcVolumeIn": 888801,
-                        "ibcVolumeOut": 890261,
-                        "ibcVolumeRating": 5,
-                        "ibcTransfersRating": 9,
-                        "dauRating": 24,
-                        "totalTxsRating": 28,
+                        "ibcVolume": 1788719,
+                        "ibcVolumeIn": 894299,
+                        "ibcVolumeOut": 894420,
+                        "ibcVolumeRating": 3,
+                        "ibcTransfersRating": 10,
+                        "dauRating": 25,
+                        "totalTxsRating": 29,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "alteredcarbon",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Alteredcarbon40.png",
+                "name": "Altered Carbon",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 0,
+                        "ibcVolumeIn": 0,
+                        "ibcVolumeOut": 0,
+                        "ibcVolumeRating": 52,
+                        "ibcTransfersRating": 53,
+                        "dauRating": 51,
+                        "totalTxsRating": 50,
                         "__typename": "flat_blockchain_switched_stats"
                     }
                 ]
@@ -408,13 +313,146 @@
                 "isMainnet": true,
                 "switchedStats": [
                     {
-                        "ibcVolume": 15779,
-                        "ibcVolumeIn": 2666,
-                        "ibcVolumeOut": 13113,
-                        "ibcVolumeRating": 20,
-                        "ibcTransfersRating": 38,
+                        "ibcVolume": 62322,
+                        "ibcVolumeIn": 37195,
+                        "ibcVolumeOut": 25127,
+                        "ibcVolumeRating": 18,
+                        "ibcTransfersRating": 41,
                         "dauRating": 26,
-                        "totalTxsRating": 27,
+                        "totalTxsRating": 28,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "kichain-2",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Kichain40.png",
+                "name": "KiChain",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 1840,
+                        "ibcVolumeIn": 450,
+                        "ibcVolumeOut": 1390,
+                        "ibcVolumeRating": 36,
+                        "ibcTransfersRating": 20,
+                        "dauRating": 22,
+                        "totalTxsRating": 19,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "laozi-mainnet",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Band40.svg",
+                "name": "Band",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 4189,
+                        "ibcVolumeIn": 2369,
+                        "ibcVolumeOut": 1820,
+                        "ibcVolumeRating": 33,
+                        "ibcTransfersRating": 1,
+                        "dauRating": 24,
+                        "totalTxsRating": 2,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "likecoin-mainnet-2",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Likecoin40.svg",
+                "name": "LikeCoin",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 183,
+                        "ibcVolumeIn": 117,
+                        "ibcVolumeOut": 66,
+                        "ibcVolumeRating": 42,
+                        "ibcTransfersRating": 37,
+                        "dauRating": 27,
+                        "totalTxsRating": 32,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "lum-network-1",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/LumNetwork40-2.png",
+                "name": "Lum Network",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 99,
+                        "ibcVolumeIn": 24,
+                        "ibcVolumeOut": 75,
+                        "ibcVolumeRating": 44,
+                        "ibcTransfersRating": 32,
+                        "dauRating": 29,
+                        "totalTxsRating": 33,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "mainnet-3",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Decentr40.svg",
+                "name": "Decentr",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 7173,
+                        "ibcVolumeIn": 7165,
+                        "ibcVolumeOut": 8,
+                        "ibcVolumeRating": 31,
+                        "ibcTransfersRating": 38,
+                        "dauRating": 36,
+                        "totalTxsRating": 26,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "mantle-1",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/AssetMantle40.png",
+                "name": "AssetMantle",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 1144,
+                        "ibcVolumeIn": 425,
+                        "ibcVolumeOut": 719,
+                        "ibcVolumeRating": 38,
+                        "ibcTransfersRating": 22,
+                        "dauRating": 21,
+                        "totalTxsRating": 18,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "vidulum-1",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Vidulum40.svg",
+                "name": "Vidulum",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 10,
+                        "ibcVolumeIn": 0,
+                        "ibcVolumeOut": 10,
+                        "ibcVolumeRating": 45,
+                        "ibcTransfersRating": 46,
+                        "dauRating": 41,
+                        "totalTxsRating": 43,
                         "__typename": "flat_blockchain_switched_stats"
                     }
                 ]
@@ -427,10 +465,10 @@
                 "isMainnet": true,
                 "switchedStats": [
                     {
-                        "ibcVolume": 55418,
-                        "ibcVolumeIn": 28875,
-                        "ibcVolumeOut": 26543,
-                        "ibcVolumeRating": 16,
+                        "ibcVolume": 20816,
+                        "ibcVolumeIn": 15912,
+                        "ibcVolumeOut": 4904,
+                        "ibcVolumeRating": 23,
                         "ibcTransfersRating": 31,
                         "dauRating": 32,
                         "totalTxsRating": 35,
@@ -446,13 +484,13 @@
                 "isMainnet": true,
                 "switchedStats": [
                     {
-                        "ibcVolume": 7421,
-                        "ibcVolumeIn": 4963,
-                        "ibcVolumeOut": 2458,
-                        "ibcVolumeRating": 26,
-                        "ibcTransfersRating": 20,
+                        "ibcVolume": 8123,
+                        "ibcVolumeIn": 3633,
+                        "ibcVolumeOut": 4490,
+                        "ibcVolumeRating": 30,
+                        "ibcTransfersRating": 21,
                         "dauRating": 16,
-                        "totalTxsRating": 23,
+                        "totalTxsRating": 22,
                         "__typename": "flat_blockchain_switched_stats"
                     }
                 ]
@@ -465,11 +503,11 @@
                 "isMainnet": true,
                 "switchedStats": [
                     {
-                        "ibcVolume": 14803,
-                        "ibcVolumeIn": 8419,
-                        "ibcVolumeOut": 6384,
-                        "ibcVolumeRating": 21,
-                        "ibcTransfersRating": 24,
+                        "ibcVolume": 63006,
+                        "ibcVolumeIn": 39138,
+                        "ibcVolumeOut": 23868,
+                        "ibcVolumeRating": 17,
+                        "ibcTransfersRating": 23,
                         "dauRating": 7,
                         "totalTxsRating": 3,
                         "__typename": "flat_blockchain_switched_stats"
@@ -477,39 +515,58 @@
                 ]
             },
             {
-                "zone": "emoney-3",
-                "logoUrl": "https://storage.mapofzones.com/frontend/labels/e-money40.svg",
-                "name": "E-money",
+                "zone": "comdex-1",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Comdex40.png",
+                "name": "Comdex",
                 "__typename": "flat_blockchains",
                 "isMainnet": true,
                 "switchedStats": [
                     {
-                        "ibcVolume": 10103,
-                        "ibcVolumeIn": 7594,
-                        "ibcVolumeOut": 2509,
-                        "ibcVolumeRating": 24,
-                        "ibcTransfersRating": 32,
-                        "dauRating": 38,
-                        "totalTxsRating": 40,
+                        "ibcVolume": 53525,
+                        "ibcVolumeIn": 0,
+                        "ibcVolumeOut": 53525,
+                        "ibcVolumeRating": 20,
+                        "ibcTransfersRating": 11,
+                        "dauRating": 54,
+                        "totalTxsRating": 46,
                         "__typename": "flat_blockchain_switched_stats"
                     }
                 ]
             },
             {
-                "zone": "evmos_9001-2",
-                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Evmos40-2.png",
-                "name": "Evmos",
+                "zone": "core-1",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Persistance40.svg",
+                "name": "Persistence",
                 "__typename": "flat_blockchains",
                 "isMainnet": true,
                 "switchedStats": [
                     {
-                        "ibcVolume": 348002,
-                        "ibcVolumeIn": 138805,
-                        "ibcVolumeOut": 209197,
-                        "ibcVolumeRating": 11,
-                        "ibcTransfersRating": 7,
-                        "dauRating": 3,
-                        "totalTxsRating": 12,
+                        "ibcVolume": 99531,
+                        "ibcVolumeIn": 0,
+                        "ibcVolumeOut": 99531,
+                        "ibcVolumeRating": 15,
+                        "ibcTransfersRating": 27,
+                        "dauRating": 52,
+                        "totalTxsRating": 45,
+                        "__typename": "flat_blockchain_switched_stats"
+                    }
+                ]
+            },
+            {
+                "zone": "cosmoshub-4",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Cosmos40.svg",
+                "name": "Cosmos Hub",
+                "__typename": "flat_blockchains",
+                "isMainnet": true,
+                "switchedStats": [
+                    {
+                        "ibcVolume": 4229196,
+                        "ibcVolumeIn": 1799930,
+                        "ibcVolumeOut": 2429266,
+                        "ibcVolumeRating": 2,
+                        "ibcTransfersRating": 4,
+                        "dauRating": 1,
+                        "totalTxsRating": 10,
                         "__typename": "flat_blockchain_switched_stats"
                     }
                 ]
@@ -526,28 +583,9 @@
                         "ibcVolumeIn": 0,
                         "ibcVolumeOut": 0,
                         "ibcVolumeRating": 50,
-                        "ibcTransfersRating": 47,
+                        "ibcTransfersRating": 49,
                         "dauRating": 8,
-                        "totalTxsRating": 11,
-                        "__typename": "flat_blockchain_switched_stats"
-                    }
-                ]
-            },
-            {
-                "zone": "fetchhub-4",
-                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Fetchai40.png",
-                "name": "Fetch.ai",
-                "__typename": "flat_blockchains",
-                "isMainnet": true,
-                "switchedStats": [
-                    {
-                        "ibcVolume": 33514,
-                        "ibcVolumeIn": 13172,
-                        "ibcVolumeOut": 20342,
-                        "ibcVolumeRating": 18,
-                        "ibcTransfersRating": 25,
-                        "dauRating": 21,
-                        "totalTxsRating": 17,
+                        "totalTxsRating": 9,
                         "__typename": "flat_blockchain_switched_stats"
                     }
                 ]
@@ -560,13 +598,13 @@
                 "isMainnet": true,
                 "switchedStats": [
                     {
-                        "ibcVolume": 11855,
+                        "ibcVolume": 13796,
                         "ibcVolumeIn": 0,
-                        "ibcVolumeOut": 11855,
-                        "ibcVolumeRating": 23,
-                        "ibcTransfersRating": 23,
+                        "ibcVolumeOut": 13796,
+                        "ibcVolumeRating": 24,
+                        "ibcTransfersRating": 25,
                         "dauRating": 47,
-                        "totalTxsRating": 48,
+                        "totalTxsRating": 49,
                         "__typename": "flat_blockchain_switched_stats"
                     }
                 ]
@@ -582,10 +620,10 @@
                         "ibcVolume": 0,
                         "ibcVolumeIn": 0,
                         "ibcVolumeOut": 0,
-                        "ibcVolumeRating": 48,
-                        "ibcTransfersRating": 50,
+                        "ibcVolumeRating": 53,
+                        "ibcTransfersRating": 52,
                         "dauRating": 53,
-                        "totalTxsRating": 54,
+                        "totalTxsRating": 51,
                         "__typename": "flat_blockchain_switched_stats"
                     }
                 ]
@@ -598,13 +636,13 @@
                 "isMainnet": true,
                 "switchedStats": [
                     {
-                        "ibcVolume": 8711,
+                        "ibcVolume": 12068,
                         "ibcVolumeIn": 0,
-                        "ibcVolumeOut": 8711,
+                        "ibcVolumeOut": 12068,
                         "ibcVolumeRating": 25,
                         "ibcTransfersRating": 2,
                         "dauRating": 50,
-                        "totalTxsRating": 45,
+                        "totalTxsRating": 52,
                         "__typename": "flat_blockchain_switched_stats"
                     }
                 ]
@@ -617,13 +655,13 @@
                 "isMainnet": true,
                 "switchedStats": [
                     {
-                        "ibcVolume": 15,
-                        "ibcVolumeIn": 15,
-                        "ibcVolumeOut": 0,
-                        "ibcVolumeRating": 46,
-                        "ibcTransfersRating": 46,
-                        "dauRating": 41,
-                        "totalTxsRating": 42,
+                        "ibcVolume": 357,
+                        "ibcVolumeIn": 17,
+                        "ibcVolumeOut": 340,
+                        "ibcVolumeRating": 41,
+                        "ibcTransfersRating": 44,
+                        "dauRating": 38,
+                        "totalTxsRating": 41,
                         "__typename": "flat_blockchain_switched_stats"
                     }
                 ]
@@ -636,13 +674,13 @@
                 "isMainnet": true,
                 "switchedStats": [
                     {
-                        "ibcVolume": 309,
+                        "ibcVolume": 9082,
                         "ibcVolumeIn": 0,
-                        "ibcVolumeOut": 309,
-                        "ibcVolumeRating": 41,
-                        "ibcTransfersRating": 43,
+                        "ibcVolumeOut": 9082,
+                        "ibcVolumeRating": 28,
+                        "ibcTransfersRating": 33,
                         "dauRating": 49,
-                        "totalTxsRating": 52,
+                        "totalTxsRating": 53,
                         "__typename": "flat_blockchain_switched_stats"
                     }
                 ]
@@ -655,13 +693,13 @@
                 "isMainnet": true,
                 "switchedStats": [
                     {
-                        "ibcVolume": 2930,
+                        "ibcVolume": 8418,
                         "ibcVolumeIn": 0,
-                        "ibcVolumeOut": 2930,
-                        "ibcVolumeRating": 32,
-                        "ibcTransfersRating": 33,
+                        "ibcVolumeOut": 8418,
+                        "ibcVolumeRating": 29,
+                        "ibcTransfersRating": 34,
                         "dauRating": 48,
-                        "totalTxsRating": 49,
+                        "totalTxsRating": 54,
                         "__typename": "flat_blockchain_switched_stats"
                     }
                 ]
@@ -674,13 +712,13 @@
                 "isMainnet": true,
                 "switchedStats": [
                     {
-                        "ibcVolume": 238329,
-                        "ibcVolumeIn": 102900,
-                        "ibcVolumeOut": 135429,
-                        "ibcVolumeRating": 13,
+                        "ibcVolume": 525335,
+                        "ibcVolumeIn": 202545,
+                        "ibcVolumeOut": 322790,
+                        "ibcVolumeRating": 9,
                         "ibcTransfersRating": 6,
-                        "dauRating": 4,
-                        "totalTxsRating": 10,
+                        "dauRating": 5,
+                        "totalTxsRating": 11,
                         "__typename": "flat_blockchain_switched_stats"
                     }
                 ]
@@ -693,70 +731,70 @@
                 "isMainnet": true,
                 "switchedStats": [
                     {
-                        "ibcVolume": 570661,
-                        "ibcVolumeIn": 281837,
-                        "ibcVolumeOut": 288824,
-                        "ibcVolumeRating": 8,
+                        "ibcVolume": 282980,
+                        "ibcVolumeIn": 153877,
+                        "ibcVolumeOut": 129103,
+                        "ibcVolumeRating": 13,
                         "ibcTransfersRating": 15,
-                        "dauRating": 17,
+                        "dauRating": 15,
                         "totalTxsRating": 4,
                         "__typename": "flat_blockchain_switched_stats"
                     }
                 ]
             },
             {
-                "zone": "kichain-2",
-                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Kichain40.png",
-                "name": "KiChain",
+                "zone": "microtick-1",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Microtick40.svg",
+                "name": "Microtick",
                 "__typename": "flat_blockchains",
                 "isMainnet": true,
                 "switchedStats": [
                     {
-                        "ibcVolume": 7170,
-                        "ibcVolumeIn": 6319,
-                        "ibcVolumeOut": 851,
-                        "ibcVolumeRating": 27,
-                        "ibcTransfersRating": 22,
-                        "dauRating": 23,
-                        "totalTxsRating": 22,
+                        "ibcVolume": 0,
+                        "ibcVolumeIn": 0,
+                        "ibcVolumeOut": 0,
+                        "ibcVolumeRating": 54,
+                        "ibcTransfersRating": 54,
+                        "dauRating": 45,
+                        "totalTxsRating": 48,
                         "__typename": "flat_blockchain_switched_stats"
                     }
                 ]
             },
             {
-                "zone": "laozi-mainnet",
-                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Band40.svg",
-                "name": "Band",
+                "zone": "osmosis-1",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Osmosis40.svg",
+                "name": "Osmosis",
                 "__typename": "flat_blockchains",
                 "isMainnet": true,
                 "switchedStats": [
                     {
-                        "ibcVolume": 3810,
-                        "ibcVolumeIn": 1971,
-                        "ibcVolumeOut": 1839,
-                        "ibcVolumeRating": 31,
-                        "ibcTransfersRating": 1,
-                        "dauRating": 25,
-                        "totalTxsRating": 2,
+                        "ibcVolume": 8388793,
+                        "ibcVolumeIn": 3645660,
+                        "ibcVolumeOut": 4743133,
+                        "ibcVolumeRating": 1,
+                        "ibcTransfersRating": 3,
+                        "dauRating": 3,
+                        "totalTxsRating": 5,
                         "__typename": "flat_blockchain_switched_stats"
                     }
                 ]
             },
             {
-                "zone": "likecoin-mainnet-2",
-                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Likecoin40.svg",
-                "name": "LikeCoin",
+                "zone": "panacea-3",
+                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Medibloc40.png",
+                "name": "MediBloc",
                 "__typename": "flat_blockchains",
                 "isMainnet": true,
                 "switchedStats": [
                     {
-                        "ibcVolume": 105,
-                        "ibcVolumeIn": 12,
-                        "ibcVolumeOut": 93,
-                        "ibcVolumeRating": 43,
-                        "ibcTransfersRating": 34,
-                        "dauRating": 27,
-                        "totalTxsRating": 34,
+                        "ibcVolume": 38034,
+                        "ibcVolumeIn": 33770,
+                        "ibcVolumeOut": 4264,
+                        "ibcVolumeRating": 21,
+                        "ibcTransfersRating": 36,
+                        "dauRating": 28,
+                        "totalTxsRating": 27,
                         "__typename": "flat_blockchain_switched_stats"
                     }
                 ]
@@ -769,32 +807,13 @@
                 "isMainnet": true,
                 "switchedStats": [
                     {
-                        "ibcVolume": 789,
-                        "ibcVolumeIn": 738,
-                        "ibcVolumeOut": 51,
-                        "ibcVolumeRating": 38,
-                        "ibcTransfersRating": 40,
-                        "dauRating": 39,
-                        "totalTxsRating": 30,
-                        "__typename": "flat_blockchain_switched_stats"
-                    }
-                ]
-            },
-            {
-                "zone": "mainnet-3",
-                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Decentr40.svg",
-                "name": "Decentr",
-                "__typename": "flat_blockchains",
-                "isMainnet": true,
-                "switchedStats": [
-                    {
-                        "ibcVolume": 1235,
-                        "ibcVolumeIn": 772,
-                        "ibcVolumeOut": 463,
-                        "ibcVolumeRating": 36,
-                        "ibcTransfersRating": 41,
-                        "dauRating": 37,
-                        "totalTxsRating": 26,
+                        "ibcVolume": 820,
+                        "ibcVolumeIn": 428,
+                        "ibcVolumeOut": 392,
+                        "ibcVolumeRating": 39,
+                        "ibcTransfersRating": 43,
+                        "dauRating": 42,
+                        "totalTxsRating": 34,
                         "__typename": "flat_blockchain_switched_stats"
                     }
                 ]
@@ -810,8 +829,8 @@
                         "ibcVolume": 0,
                         "ibcVolumeIn": 0,
                         "ibcVolumeOut": 0,
-                        "ibcVolumeRating": 54,
-                        "ibcTransfersRating": 48,
+                        "ibcVolumeRating": 46,
+                        "ibcTransfersRating": 45,
                         "dauRating": 44,
                         "totalTxsRating": 44,
                         "__typename": "flat_blockchain_switched_stats"
@@ -826,13 +845,13 @@
                 "isMainnet": true,
                 "switchedStats": [
                     {
-                        "ibcVolume": 6504,
-                        "ibcVolumeIn": 5733,
-                        "ibcVolumeOut": 771,
-                        "ibcVolumeRating": 28,
-                        "ibcTransfersRating": 27,
-                        "dauRating": 30,
-                        "totalTxsRating": 36,
+                        "ibcVolume": 2100,
+                        "ibcVolumeIn": 1304,
+                        "ibcVolumeOut": 796,
+                        "ibcVolumeRating": 35,
+                        "ibcTransfersRating": 30,
+                        "dauRating": 31,
+                        "totalTxsRating": 37,
                         "__typename": "flat_blockchain_switched_stats"
                     }
                 ]
@@ -845,13 +864,13 @@
                 "isMainnet": true,
                 "switchedStats": [
                     {
-                        "ibcVolume": 731784,
-                        "ibcVolumeIn": 424088,
-                        "ibcVolumeOut": 307696,
-                        "ibcVolumeRating": 7,
+                        "ibcVolume": 859374,
+                        "ibcVolumeIn": 708200,
+                        "ibcVolumeOut": 151174,
+                        "ibcVolumeRating": 8,
                         "ibcTransfersRating": 13,
                         "dauRating": 10,
-                        "totalTxsRating": 20,
+                        "totalTxsRating": 23,
                         "__typename": "flat_blockchain_switched_stats"
                     }
                 ]
@@ -864,12 +883,12 @@
                 "isMainnet": true,
                 "switchedStats": [
                     {
-                        "ibcVolume": 5407,
-                        "ibcVolumeIn": 2546,
-                        "ibcVolumeOut": 2861,
-                        "ibcVolumeRating": 29,
-                        "ibcTransfersRating": 26,
-                        "dauRating": 18,
+                        "ibcVolume": 3522,
+                        "ibcVolumeIn": 1921,
+                        "ibcVolumeOut": 1601,
+                        "ibcVolumeRating": 34,
+                        "ibcTransfersRating": 29,
+                        "dauRating": 20,
                         "totalTxsRating": 25,
                         "__typename": "flat_blockchain_switched_stats"
                     }
@@ -886,9 +905,9 @@
                         "ibcVolume": 0,
                         "ibcVolumeIn": 0,
                         "ibcVolumeOut": 0,
-                        "ibcVolumeRating": 49,
+                        "ibcVolumeRating": 51,
                         "ibcTransfersRating": 51,
-                        "dauRating": 36,
+                        "dauRating": 37,
                         "totalTxsRating": 13,
                         "__typename": "flat_blockchain_switched_stats"
                     }
@@ -902,13 +921,13 @@
                 "isMainnet": true,
                 "switchedStats": [
                     {
-                        "ibcVolume": 1610,
-                        "ibcVolumeIn": 535,
-                        "ibcVolumeOut": 1075,
-                        "ibcVolumeRating": 35,
-                        "ibcTransfersRating": 35,
-                        "dauRating": 22,
-                        "totalTxsRating": 32,
+                        "ibcVolume": 5161,
+                        "ibcVolumeIn": 2022,
+                        "ibcVolumeOut": 3139,
+                        "ibcVolumeRating": 32,
+                        "ibcTransfersRating": 26,
+                        "dauRating": 23,
+                        "totalTxsRating": 30,
                         "__typename": "flat_blockchain_switched_stats"
                     }
                 ]
@@ -921,13 +940,13 @@
                 "isMainnet": true,
                 "switchedStats": [
                     {
-                        "ibcVolume": 1159,
-                        "ibcVolumeIn": 505,
-                        "ibcVolumeOut": 654,
-                        "ibcVolumeRating": 37,
-                        "ibcTransfersRating": 39,
+                        "ibcVolume": 10878,
+                        "ibcVolumeIn": 4757,
+                        "ibcVolumeOut": 6121,
+                        "ibcVolumeRating": 27,
+                        "ibcTransfersRating": 42,
                         "dauRating": 40,
-                        "totalTxsRating": 16,
+                        "totalTxsRating": 17,
                         "__typename": "flat_blockchain_switched_stats"
                     }
                 ]
@@ -940,13 +959,13 @@
                 "isMainnet": true,
                 "switchedStats": [
                     {
-                        "ibcVolume": 50204,
-                        "ibcVolumeIn": 32966,
-                        "ibcVolumeOut": 17238,
-                        "ibcVolumeRating": 17,
+                        "ibcVolume": 56150,
+                        "ibcVolumeIn": 18483,
+                        "ibcVolumeOut": 37667,
+                        "ibcVolumeRating": 19,
                         "ibcTransfersRating": 14,
                         "dauRating": 9,
-                        "totalTxsRating": 14,
+                        "totalTxsRating": 15,
                         "__typename": "flat_blockchain_switched_stats"
                     }
                 ]
@@ -959,13 +978,13 @@
                 "isMainnet": true,
                 "switchedStats": [
                     {
-                        "ibcVolume": 2607290,
-                        "ibcVolumeIn": 2266602,
-                        "ibcVolumeOut": 340688,
-                        "ibcVolumeRating": 3,
+                        "ibcVolume": 1038207,
+                        "ibcVolumeIn": 806252,
+                        "ibcVolumeOut": 231955,
+                        "ibcVolumeRating": 6,
                         "ibcTransfersRating": 5,
-                        "dauRating": 15,
-                        "totalTxsRating": 19,
+                        "dauRating": 18,
+                        "totalTxsRating": 20,
                         "__typename": "flat_blockchain_switched_stats"
                     }
                 ]
@@ -978,12 +997,12 @@
                 "isMainnet": true,
                 "switchedStats": [
                     {
-                        "ibcVolume": 21,
-                        "ibcVolumeIn": 21,
+                        "ibcVolume": 0,
+                        "ibcVolumeIn": 0,
                         "ibcVolumeOut": 0,
-                        "ibcVolumeRating": 45,
-                        "ibcTransfersRating": 49,
-                        "dauRating": 31,
+                        "ibcVolumeRating": 47,
+                        "ibcTransfersRating": 47,
+                        "dauRating": 30,
                         "totalTxsRating": 31,
                         "__typename": "flat_blockchain_switched_stats"
                     }
@@ -997,32 +1016,13 @@
                 "isMainnet": true,
                 "switchedStats": [
                     {
-                        "ibcVolume": 108702,
-                        "ibcVolumeIn": 54787,
-                        "ibcVolumeOut": 53915,
-                        "ibcVolumeRating": 14,
+                        "ibcVolume": 72852,
+                        "ibcVolumeIn": 61451,
+                        "ibcVolumeOut": 11401,
+                        "ibcVolumeRating": 16,
                         "ibcTransfersRating": 18,
                         "dauRating": 11,
                         "totalTxsRating": 1,
-                        "__typename": "flat_blockchain_switched_stats"
-                    }
-                ]
-            },
-            {
-                "zone": "vidulum-1",
-                "logoUrl": "https://storage.mapofzones.com/frontend/labels/Vidulum40.svg",
-                "name": "Vidulum",
-                "__typename": "flat_blockchains",
-                "isMainnet": true,
-                "switchedStats": [
-                    {
-                        "ibcVolume": 29,
-                        "ibcVolumeIn": 2,
-                        "ibcVolumeOut": 27,
-                        "ibcVolumeRating": 44,
-                        "ibcTransfersRating": 44,
-                        "dauRating": 42,
-                        "totalTxsRating": 43,
                         "__typename": "flat_blockchain_switched_stats"
                     }
                 ]
@@ -1032,7 +1032,7 @@
             {
                 "source": "agoric-3",
                 "target": "axelar-dojo-1",
-                "ibcVolume": 432187,
+                "ibcVolume": 163858,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -1044,7 +1044,7 @@
             {
                 "source": "agoric-3",
                 "target": "crescent-1",
-                "ibcVolume": 171323,
+                "ibcVolume": 33661,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -1056,13 +1056,13 @@
             {
                 "source": "agoric-3",
                 "target": "osmosis-1",
-                "ibcVolume": 61135,
+                "ibcVolume": 45875,
                 "__typename": "flat_blockchain_relations"
             },
             {
                 "source": "agoric-3",
                 "target": "secret-4",
-                "ibcVolume": 535007,
+                "ibcVolume": 170721,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -1122,7 +1122,7 @@
             {
                 "source": "akashnet-2",
                 "target": "juno-1",
-                "ibcVolume": 211,
+                "ibcVolume": 101,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -1140,7 +1140,7 @@
             {
                 "source": "akashnet-2",
                 "target": "osmosis-1",
-                "ibcVolume": 85617,
+                "ibcVolume": 130894,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -1152,7 +1152,7 @@
             {
                 "source": "akashnet-2",
                 "target": "secret-4",
-                "ibcVolume": 15,
+                "ibcVolume": 0,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -1182,13 +1182,13 @@
             {
                 "source": "axelar-dojo-1",
                 "target": "columbus-5",
-                "ibcVolume": 4155,
+                "ibcVolume": 5763,
                 "__typename": "flat_blockchain_relations"
             },
             {
                 "source": "axelar-dojo-1",
                 "target": "comdex-1",
-                "ibcVolume": 1302,
+                "ibcVolume": 3706,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -1200,13 +1200,13 @@
             {
                 "source": "axelar-dojo-1",
                 "target": "cosmoshub-4",
-                "ibcVolume": 4486,
+                "ibcVolume": 16,
                 "__typename": "flat_blockchain_relations"
             },
             {
                 "source": "axelar-dojo-1",
                 "target": "crescent-1",
-                "ibcVolume": 126038,
+                "ibcVolume": 153811,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -1218,7 +1218,7 @@
             {
                 "source": "axelar-dojo-1",
                 "target": "evmos_9001-2",
-                "ibcVolume": 37068,
+                "ibcVolume": 17167,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -1242,19 +1242,19 @@
             {
                 "source": "axelar-dojo-1",
                 "target": "juno-1",
-                "ibcVolume": 9060,
+                "ibcVolume": 68077,
                 "__typename": "flat_blockchain_relations"
             },
             {
                 "source": "axelar-dojo-1",
                 "target": "kaiyo-1",
-                "ibcVolume": 402794,
+                "ibcVolume": 162576,
                 "__typename": "flat_blockchain_relations"
             },
             {
                 "source": "axelar-dojo-1",
                 "target": "kichain-2",
-                "ibcVolume": 58,
+                "ibcVolume": 69,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -1266,7 +1266,7 @@
             {
                 "source": "axelar-dojo-1",
                 "target": "osmosis-1",
-                "ibcVolume": 882237,
+                "ibcVolume": 987883,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -1278,7 +1278,7 @@
             {
                 "source": "axelar-dojo-1",
                 "target": "secret-4",
-                "ibcVolume": 0,
+                "ibcVolume": 9,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -1302,7 +1302,7 @@
             {
                 "source": "axelar-dojo-1",
                 "target": "umee-1",
-                "ibcVolume": 31432,
+                "ibcVolume": 2227,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -1314,7 +1314,7 @@
             {
                 "source": "bitcanna-1",
                 "target": "juno-1",
-                "ibcVolume": 0,
+                "ibcVolume": 313,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -1326,7 +1326,7 @@
             {
                 "source": "bitcanna-1",
                 "target": "osmosis-1",
-                "ibcVolume": 2035,
+                "ibcVolume": 1205,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -1362,7 +1362,7 @@
             {
                 "source": "bitsong-2b",
                 "target": "juno-1",
-                "ibcVolume": 20,
+                "ibcVolume": 45,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -1374,7 +1374,7 @@
             {
                 "source": "bitsong-2b",
                 "target": "osmosis-1",
-                "ibcVolume": 408,
+                "ibcVolume": 546,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -1386,7 +1386,7 @@
             {
                 "source": "bostrom",
                 "target": "cosmoshub-4",
-                "ibcVolume": 51,
+                "ibcVolume": 6231,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -1404,7 +1404,7 @@
             {
                 "source": "bostrom",
                 "target": "gravity-bridge-3",
-                "ibcVolume": 0,
+                "ibcVolume": 12,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -1416,7 +1416,7 @@
             {
                 "source": "bostrom",
                 "target": "osmosis-1",
-                "ibcVolume": 1779011,
+                "ibcVolume": 1782476,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -1428,7 +1428,7 @@
             {
                 "source": "canto_7700-1",
                 "target": "cosmoshub-4",
-                "ibcVolume": 15779,
+                "ibcVolume": 62322,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -1452,7 +1452,7 @@
             {
                 "source": "cheqd-mainnet-1",
                 "target": "osmosis-1",
-                "ibcVolume": 55418,
+                "ibcVolume": 20816,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -1482,7 +1482,7 @@
             {
                 "source": "chihuahua-1",
                 "target": "juno-1",
-                "ibcVolume": 527,
+                "ibcVolume": 332,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -1500,13 +1500,13 @@
             {
                 "source": "chihuahua-1",
                 "target": "osmosis-1",
-                "ibcVolume": 33380,
+                "ibcVolume": 12668,
                 "__typename": "flat_blockchain_relations"
             },
             {
                 "source": "chihuahua-1",
                 "target": "secret-4",
-                "ibcVolume": 57,
+                "ibcVolume": 27,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -1530,7 +1530,7 @@
             {
                 "source": "columbus-5",
                 "target": "crescent-1",
-                "ibcVolume": 3215,
+                "ibcVolume": 305,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -1560,7 +1560,7 @@
             {
                 "source": "columbus-5",
                 "target": "gravity-bridge-3",
-                "ibcVolume": 0,
+                "ibcVolume": 46,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -1572,7 +1572,7 @@
             {
                 "source": "columbus-5",
                 "target": "juno-1",
-                "ibcVolume": 1565,
+                "ibcVolume": 2022,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -1590,13 +1590,13 @@
             {
                 "source": "columbus-5",
                 "target": "osmosis-1",
-                "ibcVolume": 5868,
+                "ibcVolume": 54870,
                 "__typename": "flat_blockchain_relations"
             },
             {
                 "source": "columbus-5",
                 "target": "secret-4",
-                "ibcVolume": 3732,
+                "ibcVolume": 82909,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -1626,13 +1626,13 @@
             {
                 "source": "comdex-1",
                 "target": "cosmoshub-4",
-                "ibcVolume": 8972,
+                "ibcVolume": 31464,
                 "__typename": "flat_blockchain_relations"
             },
             {
                 "source": "comdex-1",
                 "target": "crescent-1",
-                "ibcVolume": 1481,
+                "ibcVolume": 2672,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -1674,7 +1674,7 @@
             {
                 "source": "comdex-1",
                 "target": "juno-1",
-                "ibcVolume": 1559,
+                "ibcVolume": 850,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -1692,7 +1692,7 @@
             {
                 "source": "comdex-1",
                 "target": "osmosis-1",
-                "ibcVolume": 6205,
+                "ibcVolume": 12728,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -1728,13 +1728,13 @@
             {
                 "source": "comdex-1",
                 "target": "stride-1",
-                "ibcVolume": 506,
+                "ibcVolume": 2105,
                 "__typename": "flat_blockchain_relations"
             },
             {
                 "source": "core-1",
                 "target": "cosmoshub-4",
-                "ibcVolume": 721,
+                "ibcVolume": 11761,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -1788,7 +1788,7 @@
             {
                 "source": "core-1",
                 "target": "juno-1",
-                "ibcVolume": 1,
+                "ibcVolume": 28,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -1806,7 +1806,7 @@
             {
                 "source": "core-1",
                 "target": "osmosis-1",
-                "ibcVolume": 12186,
+                "ibcVolume": 87742,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -1836,13 +1836,13 @@
             {
                 "source": "cosmoshub-4",
                 "target": "crescent-1",
-                "ibcVolume": 110244,
+                "ibcVolume": 114322,
                 "__typename": "flat_blockchain_relations"
             },
             {
                 "source": "cosmoshub-4",
                 "target": "cronosmainnet_25-1",
-                "ibcVolume": 13679,
+                "ibcVolume": 116003,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -1872,7 +1872,7 @@
             {
                 "source": "cosmoshub-4",
                 "target": "evmos_9001-2",
-                "ibcVolume": 30666,
+                "ibcVolume": 18727,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -1890,7 +1890,7 @@
             {
                 "source": "cosmoshub-4",
                 "target": "gravity-bridge-3",
-                "ibcVolume": 51,
+                "ibcVolume": 1225,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -1902,7 +1902,7 @@
             {
                 "source": "cosmoshub-4",
                 "target": "injective-1",
-                "ibcVolume": 1236,
+                "ibcVolume": 344,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -1914,25 +1914,25 @@
             {
                 "source": "cosmoshub-4",
                 "target": "irishub-1",
-                "ibcVolume": 0,
+                "ibcVolume": 749,
                 "__typename": "flat_blockchain_relations"
             },
             {
                 "source": "cosmoshub-4",
                 "target": "juno-1",
-                "ibcVolume": 45391,
+                "ibcVolume": 181525,
                 "__typename": "flat_blockchain_relations"
             },
             {
                 "source": "cosmoshub-4",
                 "target": "kaiyo-1",
-                "ibcVolume": 123209,
+                "ibcVolume": 80738,
                 "__typename": "flat_blockchain_relations"
             },
             {
                 "source": "cosmoshub-4",
                 "target": "kichain-2",
-                "ibcVolume": 0,
+                "ibcVolume": 86,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -1956,13 +1956,13 @@
             {
                 "source": "cosmoshub-4",
                 "target": "omniflixhub-1",
-                "ibcVolume": 103,
+                "ibcVolume": 393,
                 "__typename": "flat_blockchain_relations"
             },
             {
                 "source": "cosmoshub-4",
                 "target": "osmosis-1",
-                "ibcVolume": 1868606,
+                "ibcVolume": 2895505,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -1974,7 +1974,7 @@
             {
                 "source": "cosmoshub-4",
                 "target": "secret-4",
-                "ibcVolume": 13153,
+                "ibcVolume": 263440,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -1992,7 +1992,7 @@
             {
                 "source": "cosmoshub-4",
                 "target": "sifchain-1",
-                "ibcVolume": 446,
+                "ibcVolume": 3027,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -2004,7 +2004,7 @@
             {
                 "source": "cosmoshub-4",
                 "target": "stride-1",
-                "ibcVolume": 1339600,
+                "ibcVolume": 562496,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -2016,7 +2016,7 @@
             {
                 "source": "cosmoshub-4",
                 "target": "umee-1",
-                "ibcVolume": 29889,
+                "ibcVolume": 44701,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -2028,13 +2028,13 @@
             {
                 "source": "crescent-1",
                 "target": "gravity-bridge-3",
-                "ibcVolume": 2482,
+                "ibcVolume": 5418,
                 "__typename": "flat_blockchain_relations"
             },
             {
                 "source": "crescent-1",
                 "target": "injective-1",
-                "ibcVolume": 973,
+                "ibcVolume": 1765,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -2052,7 +2052,7 @@
             {
                 "source": "crescent-1",
                 "target": "osmosis-1",
-                "ibcVolume": 192,
+                "ibcVolume": 104,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -2070,7 +2070,7 @@
             {
                 "source": "crescent-1",
                 "target": "stride-1",
-                "ibcVolume": 104217,
+                "ibcVolume": 12672,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -2082,7 +2082,7 @@
             {
                 "source": "cronosmainnet_25-1",
                 "target": "crypto-org-chain-mainnet-1",
-                "ibcVolume": 301964,
+                "ibcVolume": 771534,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -2148,7 +2148,7 @@
             {
                 "source": "crypto-org-chain-mainnet-1",
                 "target": "osmosis-1",
-                "ibcVolume": 100166,
+                "ibcVolume": 479299,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -2184,7 +2184,7 @@
             {
                 "source": "darchub",
                 "target": "osmosis-1",
-                "ibcVolume": 9,
+                "ibcVolume": 0,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -2196,7 +2196,7 @@
             {
                 "source": "desmos-mainnet",
                 "target": "osmosis-1",
-                "ibcVolume": 168,
+                "ibcVolume": 181,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -2238,7 +2238,7 @@
             {
                 "source": "emoney-3",
                 "target": "juno-1",
-                "ibcVolume": 0,
+                "ibcVolume": 4,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -2256,7 +2256,7 @@
             {
                 "source": "emoney-3",
                 "target": "osmosis-1",
-                "ibcVolume": 9444,
+                "ibcVolume": 11621,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -2280,7 +2280,7 @@
             {
                 "source": "emoney-3",
                 "target": "sifchain-1",
-                "ibcVolume": 659,
+                "ibcVolume": 121,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -2292,7 +2292,7 @@
             {
                 "source": "evmos_9001-2",
                 "target": "gravity-bridge-3",
-                "ibcVolume": 0,
+                "ibcVolume": 160,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -2304,13 +2304,13 @@
             {
                 "source": "evmos_9001-2",
                 "target": "juno-1",
-                "ibcVolume": 3672,
+                "ibcVolume": 3049,
                 "__typename": "flat_blockchain_relations"
             },
             {
                 "source": "evmos_9001-2",
                 "target": "kaiyo-1",
-                "ibcVolume": 2148,
+                "ibcVolume": 115,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -2328,7 +2328,7 @@
             {
                 "source": "evmos_9001-2",
                 "target": "osmosis-1",
-                "ibcVolume": 274448,
+                "ibcVolume": 334747,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -2436,7 +2436,7 @@
             {
                 "source": "fetchhub-4",
                 "target": "osmosis-1",
-                "ibcVolume": 33514,
+                "ibcVolume": 33264,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -2466,7 +2466,7 @@
             {
                 "source": "gravity-bridge-3",
                 "target": "juno-1",
-                "ibcVolume": 0,
+                "ibcVolume": 282,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -2508,7 +2508,7 @@
             {
                 "source": "gravity-bridge-3",
                 "target": "osmosis-1",
-                "ibcVolume": 882020,
+                "ibcVolume": 1509622,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -2538,7 +2538,7 @@
             {
                 "source": "gravity-bridge-3",
                 "target": "stargaze-1",
-                "ibcVolume": 256,
+                "ibcVolume": 0,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -2616,7 +2616,7 @@
             {
                 "source": "injective-1",
                 "target": "osmosis-1",
-                "ibcVolume": 6358,
+                "ibcVolume": 8826,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -2628,13 +2628,13 @@
             {
                 "source": "injective-1",
                 "target": "sommelier-3",
-                "ibcVolume": 0,
+                "ibcVolume": 1016,
                 "__typename": "flat_blockchain_relations"
             },
             {
                 "source": "injective-1",
                 "target": "stride-1",
-                "ibcVolume": 144,
+                "ibcVolume": 117,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -2652,7 +2652,7 @@
             {
                 "source": "iov-mainnet-ibc",
                 "target": "osmosis-1",
-                "ibcVolume": 15,
+                "ibcVolume": 357,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -2682,7 +2682,7 @@
             {
                 "source": "irishub-1",
                 "target": "osmosis-1",
-                "ibcVolume": 309,
+                "ibcVolume": 8333,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -2712,13 +2712,13 @@
             {
                 "source": "jackal-1",
                 "target": "osmosis-1",
-                "ibcVolume": 2930,
+                "ibcVolume": 8418,
                 "__typename": "flat_blockchain_relations"
             },
             {
                 "source": "juno-1",
                 "target": "kaiyo-1",
-                "ibcVolume": 1460,
+                "ibcVolume": 1651,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -2742,19 +2742,19 @@
             {
                 "source": "juno-1",
                 "target": "mantle-1",
-                "ibcVolume": 1,
+                "ibcVolume": 4,
                 "__typename": "flat_blockchain_relations"
             },
             {
                 "source": "juno-1",
                 "target": "omniflixhub-1",
-                "ibcVolume": 711,
+                "ibcVolume": 486,
                 "__typename": "flat_blockchain_relations"
             },
             {
                 "source": "juno-1",
                 "target": "osmosis-1",
-                "ibcVolume": 172418,
+                "ibcVolume": 251062,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -2766,7 +2766,7 @@
             {
                 "source": "juno-1",
                 "target": "secret-4",
-                "ibcVolume": 481,
+                "ibcVolume": 618,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -2778,19 +2778,19 @@
             {
                 "source": "juno-1",
                 "target": "sifchain-1",
-                "ibcVolume": 90,
+                "ibcVolume": 125,
                 "__typename": "flat_blockchain_relations"
             },
             {
                 "source": "juno-1",
                 "target": "stargaze-1",
-                "ibcVolume": 986,
+                "ibcVolume": 856,
                 "__typename": "flat_blockchain_relations"
             },
             {
                 "source": "juno-1",
                 "target": "stride-1",
-                "ibcVolume": 176,
+                "ibcVolume": 13905,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -2820,19 +2820,19 @@
             {
                 "source": "kaiyo-1",
                 "target": "osmosis-1",
-                "ibcVolume": 37133,
+                "ibcVolume": 34598,
                 "__typename": "flat_blockchain_relations"
             },
             {
                 "source": "kaiyo-1",
                 "target": "secret-4",
-                "ibcVolume": 886,
+                "ibcVolume": 1725,
                 "__typename": "flat_blockchain_relations"
             },
             {
                 "source": "kaiyo-1",
                 "target": "stargaze-1",
-                "ibcVolume": 3031,
+                "ibcVolume": 1577,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -2868,7 +2868,7 @@
             {
                 "source": "kichain-2",
                 "target": "osmosis-1",
-                "ibcVolume": 7112,
+                "ibcVolume": 1685,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -2892,13 +2892,13 @@
             {
                 "source": "laozi-mainnet",
                 "target": "osmosis-1",
-                "ibcVolume": 3810,
+                "ibcVolume": 4189,
                 "__typename": "flat_blockchain_relations"
             },
             {
                 "source": "likecoin-mainnet-2",
                 "target": "osmosis-1",
-                "ibcVolume": 105,
+                "ibcVolume": 183,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -2910,7 +2910,7 @@
             {
                 "source": "lum-network-1",
                 "target": "osmosis-1",
-                "ibcVolume": 606,
+                "ibcVolume": 99,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -2928,7 +2928,7 @@
             {
                 "source": "mainnet-3",
                 "target": "osmosis-1",
-                "ibcVolume": 1235,
+                "ibcVolume": 7173,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -2940,7 +2940,7 @@
             {
                 "source": "mantle-1",
                 "target": "osmosis-1",
-                "ibcVolume": 1693,
+                "ibcVolume": 1140,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -2970,7 +2970,7 @@
             {
                 "source": "omniflixhub-1",
                 "target": "osmosis-1",
-                "ibcVolume": 1,
+                "ibcVolume": 2,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -2994,25 +2994,25 @@
             {
                 "source": "osmosis-1",
                 "target": "panacea-3",
-                "ibcVolume": 5400,
+                "ibcVolume": 38034,
                 "__typename": "flat_blockchain_relations"
             },
             {
                 "source": "osmosis-1",
                 "target": "regen-1",
-                "ibcVolume": 12237,
+                "ibcVolume": 3404,
                 "__typename": "flat_blockchain_relations"
             },
             {
                 "source": "osmosis-1",
                 "target": "secret-4",
-                "ibcVolume": 187982,
+                "ibcVolume": 588322,
                 "__typename": "flat_blockchain_relations"
             },
             {
                 "source": "osmosis-1",
                 "target": "sentinelhub-2",
-                "ibcVolume": 3767,
+                "ibcVolume": 3192,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -3024,43 +3024,43 @@
             {
                 "source": "osmosis-1",
                 "target": "sifchain-1",
-                "ibcVolume": 415,
+                "ibcVolume": 1888,
                 "__typename": "flat_blockchain_relations"
             },
             {
                 "source": "osmosis-1",
                 "target": "sommelier-3",
-                "ibcVolume": 1159,
+                "ibcVolume": 9862,
                 "__typename": "flat_blockchain_relations"
             },
             {
                 "source": "osmosis-1",
                 "target": "stargaze-1",
-                "ibcVolume": 44844,
+                "ibcVolume": 53014,
                 "__typename": "flat_blockchain_relations"
             },
             {
                 "source": "osmosis-1",
                 "target": "stride-1",
-                "ibcVolume": 1161587,
+                "ibcVolume": 446209,
                 "__typename": "flat_blockchain_relations"
             },
             {
                 "source": "osmosis-1",
                 "target": "titan-1",
-                "ibcVolume": 21,
+                "ibcVolume": 0,
                 "__typename": "flat_blockchain_relations"
             },
             {
                 "source": "osmosis-1",
                 "target": "umee-1",
-                "ibcVolume": 47381,
+                "ibcVolume": 25924,
                 "__typename": "flat_blockchain_relations"
             },
             {
                 "source": "osmosis-1",
                 "target": "vidulum-1",
-                "ibcVolume": 29,
+                "ibcVolume": 10,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -3084,7 +3084,7 @@
             {
                 "source": "secret-4",
                 "target": "sentinelhub-2",
-                "ibcVolume": 1640,
+                "ibcVolume": 330,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -3096,7 +3096,7 @@
             {
                 "source": "secret-4",
                 "target": "stargaze-1",
-                "ibcVolume": 27,
+                "ibcVolume": 0,
                 "__typename": "flat_blockchain_relations"
             },
             {
@@ -3138,7 +3138,7 @@
             {
                 "source": "stargaze-1",
                 "target": "stride-1",
-                "ibcVolume": 1060,
+                "ibcVolume": 703,
                 "__typename": "flat_blockchain_relations"
             },
             {
